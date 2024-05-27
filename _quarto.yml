@@ -8,16 +8,19 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
-    - summary.qmd
+    - biscuits.qmd
     - references.qmd
 
 bibliography: references.bib
 
+execute: 
+  eval: true
+  echo: false
+  warning: false
+
 format:
   html:
     theme: cosmo
-  pdf:
-    documentclass: scrreprt
 
 
 

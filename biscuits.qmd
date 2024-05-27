@@ -1,0 +1,61 @@
+# Biscuits
+
+```{r}
+library(readxl)
+library(tidyverse)
+```
+
+
+```{r}
+recipes <- read_excel("recipes.xlsx")
+```
+
+## `r recipes |> pull(name)`
+
+
+:::: {.columns}
+
+::: {.column width="70%"}
+
+```{r}
+plain_list <- function(...) {
+  cat(paste0(c(...), collapse = "\n"))
+  cat("\n")
+}
+
+plain_list(recipes |> 
+              pull(ingredients)|>
+              str_split("; ") |> 
+              unlist()
+           )
+```
+
+
+```{r}
+bullet_list <- function(...) {
+  cat(paste0("- ", c(...), collapse = "\n"))
+  cat("\n")
+}
+
+bullet_list(recipes |> 
+              pull(method)|>
+              str_split("; ") |> 
+              unlist()
+           )
+```
+
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="20%"}
+`r recipes |> pull(temperature)`C
+
+`r recipes |> pull(time)`mins
+
+`r recipes |> pull(quantity)` x `r recipes |> pull(size)` 
+:::
+
+::::
