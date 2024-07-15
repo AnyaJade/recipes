@@ -1,16 +1,3 @@
-# Biscuits
-
-```{r}
-library(readxl)
-library(tidyverse)
-
-source("R/functions.R")
-```
-
-```{r}
-recipes <- read_excel("recipes.xlsx")
-```
-
 ## Shortbread
 
 :::: {.columns}
@@ -25,8 +12,8 @@ get_part_of_recipe(recipes, "shortbread", "ingredients") |>
 ```{r}
 get_part_of_recipe(recipes, "shortbread", "method") |>
     bullet_list() 
+ 
 ```
-
 :::
 
 ::: {.column width="10%"}
@@ -45,4 +32,3 @@ get_part_of_recipe(recipes, "shortbread", "method") |>
 :::
 
 ::::
-
