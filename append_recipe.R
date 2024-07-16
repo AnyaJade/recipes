@@ -9,10 +9,10 @@
 #' @param my_file The .qmd to append too.
 #'
 #' @return Appends code to .qmd file.
-create_recipe_layout <- function(recipe, my_file) {
+create_recipe_layout <- function(r, my_file) {
   cat(
     "## ",
-    stringr::str_to_title(recipe),
+    stringr::str_to_title(r),
     "\n",
     # column
     "\n:::: {.columns}\n",
@@ -20,7 +20,7 @@ create_recipe_layout <- function(recipe, my_file) {
     # ingredients
     "\n```{r}\n",
     "get_part_of_recipe(recipes, \"", 
-    recipe, 
+    r, 
     "\", \"ingredients\") |>
   plain_list()",
     "\n```",
@@ -28,7 +28,7 @@ create_recipe_layout <- function(recipe, my_file) {
     # method
     "\n```{r}\n",
     "get_part_of_recipe(recipes, \"", 
-    recipe, 
+    r, 
     "\", \"method\") |>
     bullet_list() ",
     "\n```\n",
@@ -40,12 +40,12 @@ create_recipe_layout <- function(recipe, my_file) {
     # column open
     "\n::: {.column width=\"20%\"}\n",
     # details
-    "\n `r get_part_of_recipe(recipes, \"", recipe, "\", \"temperature\")`C",
+    "\n `r get_part_of_recipe(recipes, \"", r, "\", \"temperature\")`C",
     "\n \n",
-    "`r get_part_of_recipe(recipes, \"", recipe, "\", \"time\")`mins",
+    "`r get_part_of_recipe(recipes, \"", r, "\", \"time\")`mins",
     "\n \n",
-    "`r get_part_of_recipe(recipes, \"", recipe, "\", \"quantity\")` x 
-    `r get_part_of_recipe(recipes, \"", recipe, "\", \"size\")` \n",
+    "`r get_part_of_recipe(recipes, \"", r, "\", \"quantity\")` x 
+    `r get_part_of_recipe(recipes, \"", r, "\", \"size\")` \n",
     # column close
     "\n:::\n",
     "\n::::\n",
@@ -56,5 +56,7 @@ create_recipe_layout <- function(recipe, my_file) {
 }
 
 # Apply function ----
-invisible(purrr::map("shortbread", 
+recipes <- c("shortbread", "brownie")
+
+invisible(purrr::map(recipes, 
                      ~create_recipe_layout(., my_file = "biscuits.qmd")))
