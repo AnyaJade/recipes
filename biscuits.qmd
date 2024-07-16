@@ -45,4 +45,3 @@ get_part_of_recipe(recipes, "shortbread", "method") |>
 :::
 
 ::::
-
