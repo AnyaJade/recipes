@@ -73,3 +73,14 @@ create_recipes <- function(r, my_file) {
     file = my_file
   )
 }
+
+append_recipes <- function(type){
+  filename <- glue::glue("{type}.qmd")
+  
+  recipes <- readxl::read_excel("recipes.xlsx") |>
+    #dplyr::filter(type == "type") |>
+    dplyr::pull(name)
+  
+  invisible(purrr::map(sort(recipes), 
+                       ~create_recipes(., my_file = filename)))
+}
