@@ -1,4 +1,4 @@
-## Biscuits
+## Cakes
 
 ```{r}
 source("R/functions.R")
@@ -11,6 +11,6 @@ recipes <- readxl::read_excel("recipes.xlsx")
 ```{r}
 #| output: asis
 
-get_recipes(recipes, "biscuits") |>
+get_recipes(recipes, "cakes") |>
   cat(sep = '\n')
 ```

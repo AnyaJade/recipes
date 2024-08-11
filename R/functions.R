@@ -20,12 +20,23 @@ get_part_of_recipe <- function(data, recipe, part){
 }
 
 get_recipe_names <- function(data, type) {
-  recipe_names <- recipes |>
+  recipe_names <- data |>
     dplyr::filter(section == type) |>
     dplyr::arrange(name) |>
     dplyr::pull(name)|>
     unique() 
     
-  
   return(recipe_names)
+}
+
+get_recipes <- function(data, section) {
+  recipes <- data |>
+    get_recipe_names(section) |>
+    purrr::map_chr(\(recipe) {
+      knitr::knit_child(input = "child-dir/_child.qmd",
+                        envir = environment(),
+                        quiet = TRUE)
+    }) 
+  
+  return(recipes)
 }
