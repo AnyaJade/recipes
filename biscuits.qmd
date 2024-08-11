@@ -6,21 +6,18 @@ source("R/functions.R")
 
 ```{r}
 recipes <- readxl::read_excel("recipes.xlsx")
-```
 
+recipe_names <- get_recipe_names(recipes, "biscuits")
+```
 
 ```{r}
 #| output: asis
-#| echo: false
 
-
-res <- purrr::map_chr(unique(recipes$name), \(recipe) {
-    knitr::knit_child(
-      input = "child-dir/_child.qmd", 
-      envir = environment(), 
-      quiet = TRUE
-      )
-  })
+res <- purrr::map_chr(recipe_names, \(recipe) {
+  knitr::knit_child(input = "child-dir/_child.qmd",
+                    envir = environment(),
+                    quiet = TRUE)
+})
 
 cat(res, sep = '\n')
 ```

@@ -18,3 +18,14 @@ get_part_of_recipe <- function(data, recipe, part){
   
   return(method)
 }
+
+get_recipe_names <- function(data, type) {
+  recipe_names <- recipes |>
+    dplyr::filter(section == type) |>
+    dplyr::arrange(name) |>
+    dplyr::pull(name)|>
+    unique() 
+    
+  
+  return(recipe_names)
+}
