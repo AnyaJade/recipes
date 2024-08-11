@@ -1,12 +1,5 @@
-```{r}
-library(readxl)
-library(tidyverse)
 
-source("R/functions.R")
-```
-
-
-## recipe
+## `r recipe`
 
 :::: {.columns}
 
