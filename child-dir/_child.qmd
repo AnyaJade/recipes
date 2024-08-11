@@ -1,5 +1,5 @@
 
-## `r recipe`
+## `r stringr::str_to_title(recipe)`
 
 :::: {.columns}
 
