@@ -1,0 +1,35 @@
+
+## `r stringr::str_to_title(recipe)`
+
+:::: {.columns}
+
+::: {.column width="70%"}
+
+```{r}
+get_part_of_recipe(recipes, recipe, "ingredients") |>
+  plain_list()
+```
+
+```{r}
+get_part_of_recipe(recipes, recipe, "method") |>
+    bullet_list() 
+```
+
+:::
+
+::: {.column width="10%"}
+
+:::
+
+::: {.column width="20%"}
+
+ `r get_part_of_recipe(recipes, recipe, "temperature")`C
+ 
+`r get_part_of_recipe(recipes, recipe, "time")`mins
+ 
+`r get_part_of_recipe(recipes, recipe, "quantity")` x 
+    `r get_part_of_recipe(recipes, recipe, "size")` 
+
+:::
+
+::::

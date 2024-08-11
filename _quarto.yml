@@ -9,6 +9,7 @@ book:
     - index.qmd
     - intro.qmd
     - biscuits.qmd
+    - cakes.qmd
     - references.qmd
 
 bibliography: references.bib
