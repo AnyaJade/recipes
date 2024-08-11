@@ -1,4 +1,20 @@
-# Biscuits
+---
+title: "Create tabsets panel from R code"
+format: 
+    html
+---
+
+
+
+
+```{r}
+#| label: r-pkgs
+#| include: false
+library(dplyr)
+library(gt)
+library(purrr)
+```
+
 
 ```{r}
 library(readxl)
@@ -11,37 +27,22 @@ source("R/functions.R")
 recipes <- read_excel("recipes.xlsx")
 ```
 
-## Shortbread
-
-:::: {.columns}
-
-::: {.column width="70%"}
 
 ```{r}
-get_part_of_recipe(recipes, "shortbread", "ingredients") |>
-  plain_list()
+#| output: asis
+#| echo: false
+
+
+res <- purrr::map_chr(unique(recipes$name), \(recipe) {
+    knitr::knit_child(
+      input = "child-dir/_child.qmd", 
+      envir = environment(), 
+      quiet = TRUE
+      )
+  })
+
+cat(res, sep = '\n')
 ```
 
-```{r}
-get_part_of_recipe(recipes, "shortbread", "method") |>
-    bullet_list() 
-```
 
-:::
 
-::: {.column width="10%"}
-
-:::
-
-::: {.column width="20%"}
-
- `r get_part_of_recipe(recipes, "shortbread", "temperature")`C
- 
-`r get_part_of_recipe(recipes, "shortbread", "time")`mins
- 
-`r get_part_of_recipe(recipes, "shortbread", "quantity")` x 
-    `r get_part_of_recipe(recipes, "shortbread", "size")` 
-
-:::
-
-::::
