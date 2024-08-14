@@ -7,12 +7,8 @@ book:
   date: "27/05/2024"
   chapters:
     - index.qmd
-    - intro.qmd
     - biscuits.qmd
     - cakes.qmd
-    - references.qmd
-
-bibliography: references.bib
 
 execute: 
   eval: true
