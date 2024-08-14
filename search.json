@@ -4,69 +4,49 @@
     "href": "index.html",
     "title": "Recipes",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n\n[1] 2",
+    "text": "Preface\nThese are the recipes I like to use.",
     "crumbs": [
       "Preface"
     ]
   },
   {
-    "objectID": "intro.html",
-    "href": "intro.html",
-    "title": "1  Introduction",
-    "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
-    ]
-  },
-  {
     "objectID": "biscuits.html",
     "href": "biscuits.html",
-    "title": "2  Biscuits",
+    "title": "1  Biscuits",
     "section": "",
-    "text": "2.1 Shortbread",
+    "text": "1.1 Shortbread",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Biscuits</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Biscuits</span>"
     ]
   },
   {
     "objectID": "biscuits.html#shortbread",
     "href": "biscuits.html#shortbread",
-    "title": "2  Biscuits",
+    "title": "1  Biscuits",
     "section": "",
     "text": "8oz butter\n8oz (icing sugar + cornflour)\n8oz plain flour\ndemerara sugar\n\n\n\n\n- NA\n\n\n\n\n\n170C\n15mins\n37 x 5.5cm",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Biscuits</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Biscuits</span>"
     ]
   },
   {
     "objectID": "cakes.html",
     "href": "cakes.html",
-    "title": "3  Cakes",
+    "title": "2  Cakes",
     "section": "",
-    "text": "3.1 Victoria Cake",
+    "text": "2.1 Victoria Cake",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Cakes</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Cakes</span>"
     ]
   },
   {
     "objectID": "cakes.html#victoria-cake",
     "href": "cakes.html#victoria-cake",
-    "title": "3  Cakes",
+    "title": "2  Cakes",
     "section": "",
     "text": "8oz mix\n\n\n\n\n- NA\n\n\n\n\n\n180C\n25-30mins\n2 x 8”",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Cakes</span>"
-    ]
-  },
-  {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
-    "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
-    "crumbs": [
-      "References"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Cakes</span>"
     ]
   }
 ]
