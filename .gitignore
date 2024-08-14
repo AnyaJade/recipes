@@ -3,9 +3,16 @@
 .Rhistory
 .RData
 .Ruserdata
-# data
-*.xlsx
+
 /.quarto/
 *.html
 _book
 
+# pictures
+*.jpg
+*.png
+
+# data
+*.xlsx
+*.csv
+*.json

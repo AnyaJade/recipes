@@ -33,7 +33,7 @@ get_recipes <- function(data, section) {
   recipes <- data |>
     get_recipe_names(section) |>
     purrr::map_chr(\(recipe) {
-      knitr::knit_child(input = "child-dir/_child.qmd",
+      knitr::knit_child(input = "child-dir/_child-recipe.qmd",
                         envir = environment(),
                         quiet = TRUE)
     }) 

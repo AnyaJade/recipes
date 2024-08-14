@@ -33,3 +33,18 @@ get_part_of_recipe(recipes, recipe, "method") |>
 :::
 
 ::::
+
+```{r}
+#| output: asis
+number_pictures <- get_part_of_recipe(recipes, recipe, "pictures") |>
+  as.numeric()
+  
+if(number_pictures == 1){
+  knitr::knit_child(input = "child-dir/_child-picture.qmd",
+                        envir = environment(),
+                        quiet = TRUE)  |>
+  cat(sep = '\n')
+} 
+
+
+```

@@ -1,0 +1,7 @@
+
+```{r}
+picture_filepath <- glue::glue("pictures/{section}-{recipe}-01.jpg")
+```
+
+![](`r picture_filepath`)
+
