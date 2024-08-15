@@ -14,7 +14,17 @@
     "href": "biscuits.html",
     "title": "1  Biscuits",
     "section": "",
-    "text": "1.1 Shortbread",
+    "text": "1.1 Oaty Chocolate Chip Cookies",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Biscuits</span>"
+    ]
+  },
+  {
+    "objectID": "biscuits.html#oaty-chocolate-chip-cookies",
+    "href": "biscuits.html#oaty-chocolate-chip-cookies",
+    "title": "1  Biscuits",
+    "section": "",
+    "text": "4oz marg\n4oz light brown sugar\n1 egg\n1tsp vanilla\n5oz SR flour\n3oz oats\n8oz choc chips\n\n\n\n\n\n190C\n15-20mins\n19 x NA",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Biscuits</span>"
     ]
@@ -23,8 +33,8 @@
     "objectID": "biscuits.html#shortbread",
     "href": "biscuits.html#shortbread",
     "title": "1  Biscuits",
-    "section": "",
-    "text": "8oz butter\n8oz (icing sugar + cornflour)\n8oz plain flour\ndemerara sugar\n\n\n\n\n- NA\n\n\n\n\n\n170C\n15mins\n37 x 5.5cm",
+    "section": "1.2 Shortbread",
+    "text": "1.2 Shortbread\n\n\n\n\n8oz butter\n8oz (icing sugar + cornflour)\n8oz plain flour\ndemerara sugar\n\n\n\n\n\n170C\n15mins\n37 x 5.5cm",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Biscuits</span>"
     ]
@@ -34,7 +44,37 @@
     "href": "cakes.html",
     "title": "2  Cakes",
     "section": "",
-    "text": "2.1 Victoria Cake",
+    "text": "2.1 Carrot Cake\nNotes\n- Replace eggs with 7.5oz apple puree and 3/2tsp BP\n- May need to cook a little longer with foil on top",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Cakes</span>"
+    ]
+  },
+  {
+    "objectID": "cakes.html#carrot-cake",
+    "href": "cakes.html#carrot-cake",
+    "title": "2  Cakes",
+    "section": "",
+    "text": "6oz marg\n6oz light brown sugar\n3 eggs\n4oz carrot\n2oz raisins\n2oz dates\n1/2tsp cinnamon\n1/4tsp nutmeg\n1oz coconut\n1oz walnuts\n6oz wholemeal flour\npinch salt\n1tsp BP\n\n\n\n\n\n180C\n90mins\n1 x 8” round",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Cakes</span>"
+    ]
+  },
+  {
+    "objectID": "cakes.html#ginger-cake",
+    "href": "cakes.html#ginger-cake",
+    "title": "2  Cakes",
+    "section": "2.2 Ginger Cake",
+    "text": "2.2 Ginger Cake\n\n\n\n\n8oz SR flour\n1/2tsp B of S\n2tsp ginger\n1/2tsp cinnamon\n1/4 pt milk\n4oz marg\n4tbsp treacle\n4os dark brown sugar\n2 eggs\n\n\n\n\n\n180C\n45mins\n1 x 8” round\n\n\nMethod\n\n\n- Melt milk, marg, treacle, sugar",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Cakes</span>"
+    ]
+  },
+  {
+    "objectID": "cakes.html#loaves",
+    "href": "cakes.html#loaves",
+    "title": "2  Cakes",
+    "section": "2.3 Loaves",
+    "text": "2.3 Loaves\n\n\n\n\n5oz marg\n5oz caster\n2 eggs\n7oz SR flour\n3tbs milk\n\n\n\n\n\n180C\n60mins\n1 x loaf\n\n\nNotes\n\n\n- Cherry & Almond: 4oz cherries, 2oz ground almond\n- Lemon Drizzle: zest 2 lemons, 4tbsp (juice and caster sugar)",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Cakes</span>"
     ]
@@ -43,10 +83,70 @@
     "objectID": "cakes.html#victoria-cake",
     "href": "cakes.html#victoria-cake",
     "title": "2  Cakes",
-    "section": "",
-    "text": "8oz mix\n\n\n\n\n- NA\n\n\n\n\n\n180C\n25-30mins\n2 x 8”",
+    "section": "2.4 Victoria Cake",
+    "text": "2.4 Victoria Cake\n\n\n\n\n8oz mix\n1tsp BP\n\n\n\n\n\n180C\n25-30mins\n2 x 8” round\n\n\nNotes\n\n\n- Or makes 20 fairy cakes or 16 cupcakes",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Cakes</span>"
+    ]
+  },
+  {
+    "objectID": "traybakes.html",
+    "href": "traybakes.html",
+    "title": "3  Traybakes",
+    "section": "",
+    "text": "3.1 Chocolate Caramel Shortbread\nMethod\n- Bring to boil then boil gently 7 mins",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Traybakes</span>"
+    ]
+  },
+  {
+    "objectID": "traybakes.html#chocolate-caramel-shortbread",
+    "href": "traybakes.html#chocolate-caramel-shortbread",
+    "title": "3  Traybakes",
+    "section": "",
+    "text": "Base: 10oz P flour\n5oz caster sugar\npinch salt\n10oz butter. Filling: 4oz marg\n1 tin condensed milk\n4oz light brown sugar\n4tbsp syrup\n\n\n\n\n\n180C\n25mins\n1 x 11” square",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Traybakes</span>"
+    ]
+  },
+  {
+    "objectID": "traybakes.html#traybakes",
+    "href": "traybakes.html#traybakes",
+    "title": "3  Traybakes",
+    "section": "3.2 Traybakes",
+    "text": "3.2 Traybakes\n\n\n\n\n5oz marg\n3oz plain chocolate\n9oz light brown sugar\n2 eggs\n1tsp strong coffee\n4oz P flour\n1oz cocoa\npinch salt\n4oz chocolate chips\n\n\n\n\n\n170C\n30mins\nNA x 8” square\n\n\nMethod\n\n\n- Melt marg, chocolate, sugar",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Traybakes</span>"
+    ]
+  },
+  {
+    "objectID": "other.html",
+    "href": "other.html",
+    "title": "4  Other",
+    "section": "",
+    "text": "4.1 Scones",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Other</span>"
+    ]
+  },
+  {
+    "objectID": "other.html#scones",
+    "href": "other.html#scones",
+    "title": "4  Other",
+    "section": "",
+    "text": "8oz SR flour\n1tsp BP\npinch salt\n2oz butter\n2oz caster sugar\n1/4 pt milk\n\n\n\n\n\n220C\n10mins\nNA x NA",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Other</span>"
+    ]
+  },
+  {
+    "objectID": "other.html#scotch-pancakes",
+    "href": "other.html#scotch-pancakes",
+    "title": "4  Other",
+    "section": "4.2 Scotch Pancakes",
+    "text": "4.2 Scotch Pancakes\n\n\n\n\n8oz SR flour\n1tsp BP\n2oz caster sugar\npinch salt\n2 eggs\nmilk -&gt; dropping consistency\n\n\n\n\n\nNAC\nNAmins\nNA x NA",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Other</span>"
     ]
   }
 ]
