@@ -4,11 +4,13 @@ project:
 book:
   title: "Recipes"
   author: "Anya Ferguson"
-  date: "27/05/2024"
+  date: "`r Sys.Date()`"
   chapters:
     - index.qmd
     - biscuits.qmd
     - cakes.qmd
+    - traybakes.qmd
+    - other.qmd
 
 execute: 
   eval: true

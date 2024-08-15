@@ -40,3 +40,14 @@ get_recipes <- function(data, section) {
   
   return(recipes)
 }
+
+get_part <- function(recipes, recipe, part){
+  contents <- get_part_of_recipe(recipes, recipe, part)
+  
+  if(!is.na(contents[1])){
+    knitr::knit_child(input = "child-dir/_child-part.qmd",
+                      envir = environment(),
+                      quiet = TRUE)  |>
+      cat(sep = '\n')}
+  
+}
