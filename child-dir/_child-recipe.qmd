@@ -10,11 +10,6 @@ get_part_of_recipe(recipes, recipe, "ingredients") |>
   plain_list()
 ```
 
-```{r}
-get_part_of_recipe(recipes, recipe, "method") |>
-    bullet_list() 
-```
-
 :::
 
 ::: {.column width="10%"}
@@ -36,6 +31,18 @@ get_part_of_recipe(recipes, recipe, "method") |>
 
 ```{r}
 #| output: asis
+
+get_part(recipes, recipe, "method")
+```
+
+```{r}
+#| output: asis
+
+get_part(recipes, recipe, "notes")
+```
+
+```{r}
+#| output: asis
 number_pictures <- get_part_of_recipe(recipes, recipe, "pictures") |>
   as.numeric()
   
@@ -45,6 +52,4 @@ if(number_pictures == 1){
                         quiet = TRUE)  |>
   cat(sep = '\n')
 } 
-
-
 ```
