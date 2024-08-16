@@ -7,7 +7,7 @@
 
 ```{r}
 get_part_of_recipe(recipes, recipe, "ingredients") |>
-  plain_list()
+  plain_list() 
 ```
 
 :::
@@ -46,10 +46,14 @@ get_part(recipes, recipe, "notes")
 number_pictures <- get_part_of_recipe(recipes, recipe, "pictures") |>
   as.numeric()
   
-if(number_pictures == 1){
+numbers <- 1:number_pictures
+numbers <- ifelse(nchar(numbers) < 2, paste0("0", numbers), numbers)
+  
+if(number_pictures > 0){
+  purrr::map_chr(numbers, \(number) {
   knitr::knit_child(input = "child-dir/_child-picture.qmd",
                         envir = environment(),
-                        quiet = TRUE)  |>
+                        quiet = TRUE) }) |>
   cat(sep = '\n')
 } 
 ```

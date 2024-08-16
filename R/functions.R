@@ -13,6 +13,8 @@ get_part_of_recipe <- function(data, recipe, part){
   method <- data |> 
     dplyr::filter(name == recipe) |>
     dplyr::pull(!!rlang::sym(part))|>
+    stringr::str_replace_all(c(":" = ":;",
+                               "Filling" = "\nFilling")) |>
     stringr::str_split("; ") |> 
     unlist() 
   
