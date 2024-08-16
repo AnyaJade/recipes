@@ -3,5 +3,5 @@
 picture_filepath <- glue::glue("pictures/{section}-{recipe}-01.jpg")
 ```
 
-![](`r picture_filepath`)
+![](`r picture_filepath`){width=300}
 
