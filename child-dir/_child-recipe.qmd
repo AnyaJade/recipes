@@ -7,7 +7,7 @@
 
 ```{r}
 get_part_of_recipe(recipes, recipe, "ingredients") |>
-  plain_list()
+  plain_list() 
 ```
 
 :::
