@@ -13,8 +13,9 @@ get_part_of_recipe <- function(data, id_number, part){
   method <- data |> 
     dplyr::filter(id == id_number) |>
     dplyr::pull(!!rlang::sym(part))|>
-    stringr::str_replace_all(c(":" = ":;",
-                               "Filling" = "\nFilling")) |>
+    stringr::str_replace_all(c("Filling:" = "\nFilling:",
+                               "Topping:" = "\nTopping:",
+                               ":" = ":;")) |>
     stringr::str_split("; ") |> 
     unlist() 
   

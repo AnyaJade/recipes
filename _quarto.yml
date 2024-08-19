@@ -7,8 +7,14 @@ book:
   date: "`r Sys.Date()`"
   chapters:
     - index.qmd
+    - bread.qmd
     - biscuits.qmd
     - cakes.qmd
+    - desserts.qmd
+    - extras.qmd
+    - muffins-and-cupcakes.qmd
+    - pancakes-and-scones.qmd
+    - pastries.qmd
     - traybakes.qmd
     - other.qmd
 

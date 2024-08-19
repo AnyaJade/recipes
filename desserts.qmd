@@ -1,0 +1,20 @@
+## Desserts
+
+```{r}
+source("R/functions.R")
+```
+
+```{r}
+recipes <- readxl::read_excel("recipes.xlsx")
+```
+
+```{r}
+#| output: asis
+
+get_recipes(recipes, "desserts") |>
+  cat(sep = '\n')
+```
+
+
+
+
