@@ -1,12 +1,12 @@
 
-## `r stringr::str_to_title(recipe)`
+## `r stringr::str_to_title(get_part_of_recipe(recipes, id, "name"))`
 
 :::: {.columns}
 
 ::: {.column width="70%"}
 
 ```{r}
-get_part_of_recipe(recipes, recipe, "ingredients") |>
+get_part_of_recipe(recipes, id, "ingredients") |>
   plain_list() 
 ```
 
@@ -18,12 +18,12 @@ get_part_of_recipe(recipes, recipe, "ingredients") |>
 
 ::: {.column width="20%"}
 
- `r get_part_of_recipe(recipes, recipe, "temperature")`C
+ `r get_part_of_recipe(recipes, id, "temperature")`C
  
-`r get_part_of_recipe(recipes, recipe, "time")`mins
+`r get_part_of_recipe(recipes, id, "time")`mins
  
-`r get_part_of_recipe(recipes, recipe, "quantity")` x 
-    `r get_part_of_recipe(recipes, recipe, "size")` 
+`r get_part_of_recipe(recipes, id, "quantity")` x 
+    `r get_part_of_recipe(recipes, id, "size")` 
 
 :::
 
@@ -32,18 +32,18 @@ get_part_of_recipe(recipes, recipe, "ingredients") |>
 ```{r}
 #| output: asis
 
-get_part(recipes, recipe, "method")
+get_part(recipes, id, "method")
 ```
 
 ```{r}
 #| output: asis
 
-get_part(recipes, recipe, "notes")
+get_part(recipes, id, "notes")
 ```
 
 ```{r}
 #| output: asis
-number_pictures <- get_part_of_recipe(recipes, recipe, "pictures") |>
+number_pictures <- get_part_of_recipe(recipes, id, "pictures") |>
   as.numeric()
   
 numbers <- 1:number_pictures
