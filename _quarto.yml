@@ -4,7 +4,7 @@ project:
 book:
   title: "Recipes"
   author: "Anya Ferguson"
-  date: "`r Sys.Date()`"
+  date: today
   chapters:
     - index.qmd
     - bread.qmd

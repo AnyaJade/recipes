@@ -54,3 +54,18 @@ get_part <- function(recipes, id, part){
       cat(sep = '\n')}
   
 }
+
+get_detail <- function(recipes, id, detail){
+  
+  contents <- get_part_of_recipe(recipes, id, detail)
+  
+  if(!is.na(contents[1])){
+    if(detail == "temperature"){
+      glue::glue("{contents}C")
+    } else if(detail == "time"){
+      glue::glue("{contents} mins")
+    } else if(detail == "size_and_quantity"){
+      glue::glue("{contents}")
+    }
+    } 
+}
