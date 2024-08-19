@@ -18,12 +18,23 @@ get_part_of_recipe(recipes, id, "ingredients") |>
 
 ::: {.column width="20%"}
 
- `r get_part_of_recipe(recipes, id, "temperature")`C
- 
-`r get_part_of_recipe(recipes, id, "time")`mins
- 
-`r get_part_of_recipe(recipes, id, "quantity")` x 
-    `r get_part_of_recipe(recipes, id, "size")` 
+```{r}
+#| output: asis
+
+get_detail(recipes, id, "temperature")
+```
+
+```{r}
+#| output: asis
+
+get_detail(recipes, id, "time")
+```
+
+```{r}
+#| output: asis
+
+get_detail(recipes, id, "size_and_quantity")
+```
 
 :::
 
