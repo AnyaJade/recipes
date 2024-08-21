@@ -15,3 +15,4 @@ _book
 *.csv
 *.json
 notes.R
+_extensions/quarto-ext/
