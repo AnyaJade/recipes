@@ -1,12 +1,12 @@
 
-## `r stringr::str_to_title(get_part_of_recipe(recipes, id, "name"))`
+## `r stringr::str_to_title(get_part_of_recipe(recipes, id_number, "name"))`
 
 :::: {.columns}
 
 ::: {.column width="70%"}
 
 ```{r}
-get_part_of_recipe(recipes, id, "ingredients") |>
+get_part_of_recipe(recipes, id_number, "ingredients") |>
   plain_list() 
 ```
 
@@ -21,19 +21,19 @@ get_part_of_recipe(recipes, id, "ingredients") |>
 ```{r}
 #| output: asis
 
-get_detail(recipes, id, "temperature")
+get_detail(recipes, id_number, "temperature")
 ```
 
 ```{r}
 #| output: asis
 
-get_detail(recipes, id, "time")
+get_detail(recipes, id_number, "time")
 ```
 
 ```{r}
 #| output: asis
 
-get_detail(recipes, id, "size_and_quantity")
+get_detail(recipes, id_number, "size_and_quantity")
 ```
 
 :::
@@ -43,18 +43,34 @@ get_detail(recipes, id, "size_and_quantity")
 ```{r}
 #| output: asis
 
-get_part(recipes, id, "method")
+get_part(recipes, id_number, "method")
 ```
 
 ```{r}
 #| output: asis
 
-get_part(recipes, id, "notes")
+get_part(recipes, id_number, "notes")
 ```
 
 ```{r}
 #| output: asis
-number_pictures <- get_part_of_recipe(recipes, id, "pictures") |>
+
+link <- recipes |>
+    dplyr::filter(id == id_number) |>
+    dplyr::pull(link)
+  
+if(!is.na(link)){
+  knitr::knit_child(input = "child-dir/_child-link.qmd",
+                        envir = environment(),
+                        quiet = TRUE) |>
+  cat(sep = '\n')
+}
+```
+
+```{r}
+#| output: asis
+
+number_pictures <- get_part_of_recipe(recipes, id_number, "pictures") |>
   as.numeric()
   
 numbers <- 1:number_pictures
@@ -68,3 +84,6 @@ if(number_pictures > 0){
   cat(sep = '\n')
 } 
 ```
+
+
+
