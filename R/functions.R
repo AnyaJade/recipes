@@ -69,6 +69,6 @@ get_detail <- function(recipes, id, detail) {
       glue::glue("{contents} mins")
     } else if (detail == "size_and_quantity") {
       glue::glue("{contents}")
-    }
+    } 
   }
 }

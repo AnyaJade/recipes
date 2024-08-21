@@ -1,5 +1,21 @@
 
-## `r stringr::str_to_title(get_part_of_recipe(recipes, id_number, "name"))`
+```{r}
+title <- stringr::str_to_title(get_part_of_recipe(recipes, id_number, "name"))
+```
+
+```{r}
+#| output: asis
+
+vegan <- get_part_of_recipe(recipes, id_number, "vegan")
+
+vegan <- ifelse(is.na(vegan), "", "{{< fa leaf size=2xs >}}")
+
+freezes <- get_part_of_recipe(recipes, id_number, "freezes")
+
+freezes <- ifelse(is.na(freezes), "", "{{< fa snowflake size=2xs >}}")
+```
+
+## `r title` `r vegan` `r freezes`
 
 :::: {.columns}
 
