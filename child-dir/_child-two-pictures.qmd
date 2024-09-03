@@ -1,0 +1,12 @@
+
+```{r}
+picture_filepath <- glue::glue("pictures/{id_number}-01.jpg")
+
+picture_filepath2 <- glue::glue("pictures/{id_number}-02.jpg")
+```
+
+::: {layout-ncol=2}
+![](`r picture_filepath`)
+
+![](`r picture_filepath2`)
+:::
