@@ -86,19 +86,25 @@ if(!is.na(link)){
 ```{r}
 #| output: asis
 
-number_pictures <- get_part_of_recipe(recipes, id_number, "pictures") |>
-  as.numeric()
+pictures <- list.files(path = "pictures/", recursive = TRUE)
+
+number_pictures <- sum(grepl(id_number, pictures))
   
 numbers <- 1:number_pictures
 numbers <- ifelse(nchar(numbers) < 2, paste0("0", numbers), numbers)
   
-if(number_pictures > 0){
-  purrr::map_chr(numbers, \(number) {
-  knitr::knit_child(input = "child-dir/_child-picture.qmd",
+if(number_pictures == 1){
+  knitr::knit_child(input = "child-dir/_child-one-picture.qmd",
                         envir = environment(),
-                        quiet = TRUE) }) |>
+                        quiet = TRUE) |>
   cat(sep = '\n')
-} 
+} else if (number_pictures == 2){
+
+  knitr::knit_child(input = "child-dir/_child-two-pictures.qmd",
+                        envir = environment(),
+                        quiet = TRUE) |>
+  cat(sep = '\n')
+}
 ```
 
 

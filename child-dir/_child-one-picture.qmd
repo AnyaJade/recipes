@@ -1,0 +1,7 @@
+
+```{r}
+picture_filepath <- glue::glue("pictures/{id_number}-01.jpg")
+```
+
+![](`r picture_filepath`)
+
