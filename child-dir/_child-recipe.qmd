@@ -86,8 +86,9 @@ if(!is.na(link)){
 ```{r}
 #| output: asis
 
-number_pictures <- get_part_of_recipe(recipes, id_number, "pictures") |>
-  as.numeric()
+pictures <- list.files(path = "pictures/", recursive = TRUE)
+
+number_pictures <- sum(grepl(id_number, pictures))
   
 numbers <- 1:number_pictures
 numbers <- ifelse(nchar(numbers) < 2, paste0("0", numbers), numbers)
