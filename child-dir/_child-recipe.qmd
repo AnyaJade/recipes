@@ -104,6 +104,12 @@ if(number_pictures == 1){
                         envir = environment(),
                         quiet = TRUE) |>
   cat(sep = '\n')
+} else if (number_pictures == 3){
+
+  knitr::knit_child(input = "child-dir/_child-three-pictures.qmd",
+                        envir = environment(),
+                        quiet = TRUE) |>
+  cat(sep = '\n')
 }
 ```
 
