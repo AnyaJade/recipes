@@ -13,9 +13,13 @@ vegan <- ifelse(is.na(vegan), "", "{{< fa leaf size=2xs >}}")
 freezes <- get_part_of_recipe(recipes, id_number, "freezes")
 
 freezes <- ifelse(is.na(freezes), "", "{{< fa snowflake size=2xs >}}")
+
+family <- get_part_of_recipe(recipes, id_number, "family")
+
+family <- ifelse(is.na(family), "", "{{< fa heart size=2xs >}}")
 ```
 
-## `r title` `r vegan` `r freezes`
+## `r title` `r vegan` `r freezes` `r family`
 
 :::: {.columns}
 

@@ -1,3 +1,8 @@
 # Preface {.unnumbered}
 
 These are the recipes I like to use.
+
+Key:   
+{{< fa leaf size=2xs >}} Vegan    
+{{< fa snowflake size=2xs >}} Freezable   
+{{< fa heart size=2xs >}} Family recipe
