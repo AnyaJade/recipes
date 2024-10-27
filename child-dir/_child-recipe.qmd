@@ -75,21 +75,6 @@ get_part(recipes, id_number, "notes")
 ```{r}
 #| output: asis
 
-link <- recipes |>
-    dplyr::filter(id == id_number) |>
-    dplyr::pull(link)
-  
-if(!is.na(link)){
-  knitr::knit_child(input = "child-dir/_child-link.qmd",
-                        envir = environment(),
-                        quiet = TRUE) |>
-  cat(sep = '\n')
-}
-```
-
-```{r}
-#| output: asis
-
 pictures <- list.files(path = "pictures/", recursive = TRUE)
 
 number_pictures <- sum(grepl(id_number, pictures))
