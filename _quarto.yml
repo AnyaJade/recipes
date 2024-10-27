@@ -19,6 +19,8 @@ book:
     - pastries.qmd
     - traybakes.qmd
     - other.qmd
+  repo-url: https://github.com/AnyaJade/recipes
+  repo-branch: main
 
 execute: 
   eval: true
