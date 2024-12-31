@@ -144,7 +144,7 @@
     "href": "biscuits.html",
     "title": "3  Biscuits",
     "section": "",
-    "text": "3.1 Almond Cookies\nMethod\n- Mix sugar and ground almonds.\n- Whisk aquafaba with fork until light, frothy and foamy, about 2 mins.\n- Mix all together.\n- Roll, then press slightly in flaked almonds, both sides\n- Bake.\nNotes\n- Nice, but make them small since sweet and dry.\n- To try freezing.",
+    "text": "3.1 Almond Cookies\nMethod\n- Mix sugar and ground almonds.\n- Whisk aquafaba with fork until light, frothy and foamy, about 2 mins.\n- Mix all together.\n- Roll, then press slightly in flaked almonds, both sides\n- Bake.\nNotes\n- Nice, but make them small since sweet and dry.",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Biscuits</span>"
     ]
@@ -274,7 +274,7 @@
     "href": "biscuits.html#lebkuchen",
     "title": "3  Biscuits",
     "section": "3.13 Lebkuchen  ",
-    "text": "3.13 Lebkuchen  \n\n\n\n\n7oz runny honey\n3oz butter\n7oz P flour\n3.5oz ground almonds\n1tsp BP\n1/4tsp B of S\n3/2 tsp cinnamon\n3.5tsp ginger\n1tsp mixed spice\n(1/2tsp nutmeg/allspice/..)\n1/2 zest and juice of orange\n200g chocolate\n\n\n\n\n\n180C\n15 mins\n18\n\n\nMethod\n\n\n- Melt honey and butter, then cool 5 mins in fridge.\n- Add remaining then chill for at least an hour.\n- Roll with damp hands.\n- Bake, cool, dip.\n\n\nNotes\n\n\n- \"Like a jaffa cake\".\n- Used 108g chocolate to coat bottoms",
+    "text": "3.13 Lebkuchen  \n\n\n\n\n7oz runny honey\n3oz butter\n7oz P flour\n3.5oz ground almonds\n1tsp BP\n1/4tsp B of S\n1.5tsp cinnamon\n1.5tsp ginger\n1tsp mixed spice\n(0.5tsp nutmeg/allspice/..)\nhalf zest and juice of orange\n200g chocolate\n\n\n\n\n\n180C\n15 mins\n18\n\n\nMethod\n\n\n- Melt honey and butter, then cool 5 mins in fridge.\n- Add remaining then chill for at least an hour.\n- Roll with damp hands.\n- Bake, cool, dip.\n\n\nNotes\n\n\n- \"Like a jaffa cake\".\n- Used 108g chocolate to coat bottoms",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Biscuits</span>"
     ]
@@ -344,7 +344,17 @@
     "href": "cakes.html",
     "title": "4  Cakes",
     "section": "",
-    "text": "4.1 Banana Loaf",
+    "text": "4.1 Apple Crumble Cake\nMethod\n- Make crumble topping and set aside.\n- Cut apples into small pieces, about 0.75cm.\n- Combine oil, vinegar and vanilla.\n- Gradually mix in sugar.\n- Add in milk and combine.\n- Sift dry over wet in 2-3 batches.\n- Stir in apples, top with crumble and bake.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Cakes</span>"
+    ]
+  },
+  {
+    "objectID": "cakes.html#apple-crumble-cake",
+    "href": "cakes.html#apple-crumble-cake",
+    "title": "4  Cakes",
+    "section": "",
+    "text": "300g apples\n100ml oil\n175g light brown sugar\n0.5tbsp apple cider vinegar\n1/2 tbsp vanilla\n240ml milk\n250g plain flour\n2 tsp cinnamon\n0.5tsp ground cardamom\n0.75 tsp BofS\n1.5 tsp BP\n\nTopping:\n56g plain flour\n31g sugar\n44g butter\n\n\n\n\n\n160C\n45-50 mins\n8” round",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Cakes</span>"
     ]
@@ -353,8 +363,8 @@
     "objectID": "cakes.html#banana-loaf",
     "href": "cakes.html#banana-loaf",
     "title": "4  Cakes",
-    "section": "",
-    "text": "3-4 (~11.5oz) bananas\n3.5oz light brown sugar\n10.5oz SR flour\n3.5oz sultanas\n1.75oz walnuts\n1tsp mixed spice\n1tsp BP\n5floz oil\n\n\n\n\n\n160C\n55-60 mins\nloaf",
+    "section": "4.2 Banana Loaf ",
+    "text": "4.2 Banana Loaf \n\n\n\n\n3-4 (~11.5oz) bananas\n3.5oz light brown sugar\n10.5oz SR flour\n3.5oz sultanas\n1.75oz walnuts\n1tsp mixed spice\n1tsp BP\n5floz oil\n\n\n\n\n\n160C\n55-60 mins\nloaf",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Cakes</span>"
     ]
@@ -363,8 +373,8 @@
     "objectID": "cakes.html#carrot-cake",
     "href": "cakes.html#carrot-cake",
     "title": "4  Cakes",
-    "section": "4.2 Carrot Cake  ",
-    "text": "4.2 Carrot Cake  \n\n\n\n\n6oz marg\n6oz light brown sugar\n3 eggs\n4oz carrot\n2oz raisins\n2oz dates\n1/2tsp cinnamon\n1/4tsp nutmeg\n1oz coconut\n1oz walnuts\n6oz wholemeal flour\npinch salt\n1tsp BP\n\n\n\n\n\n180C\n90 mins\n8” round\n\n\nNotes\n\n\n- For vegan option, replace eggs with 7.5oz apple puree and 1/2tsp BP, but may need to cook a little longer with foil on top.",
+    "section": "4.3 Carrot Cake  ",
+    "text": "4.3 Carrot Cake  \n\n\n\n\n6oz marg\n6oz light brown sugar\n3 eggs\n4oz carrot\n2oz raisins\n2oz dates\n1/2tsp cinnamon\n1/4tsp nutmeg\n1oz coconut\n1oz walnuts\n6oz wholemeal flour\npinch salt\n1tsp BP\n\n\n\n\n\n180C\n90 mins\n8” round\n\n\nNotes\n\n\n- For vegan option, replace eggs with 7.5oz apple puree and 1/2tsp BP, but may need to cook a little longer with foil on top.",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Cakes</span>"
     ]
@@ -373,8 +383,8 @@
     "objectID": "cakes.html#chocolate-and-caramel-cake",
     "href": "cakes.html#chocolate-and-caramel-cake",
     "title": "4  Cakes",
-    "section": "4.3 Chocolate And Caramel Cake",
-    "text": "4.3 Chocolate And Caramel Cake\n\n\n\n\n47.5g cocoa\n120g light brown sugar\n1tsp vanilla\n87.5ml just boiled water\n210g P flour\n1/2 tsp BP\n1/2 tsp B of S\n125g butter\n140 sugar\n2 eggs\n\nFilling:\n150g sugar\n150ml double cream\n1/2 tsp vanilla\n1tsp sea salt\n\nTopping:\n110g egg white (&lt;3 eggs)\n160g sugar\n235g butter\n\n\n\n\n\n160C\n20-25 mins\n2 x 8” round\n\n\nMethod\n\n\n- Whisk cocoa, sugar, vanilla and water until smooth and leave cool 5 mins.\n- Cream butter and sugar, 3-5 mins, then beat in eggs 1 at a time.\n- Fold in dry 1/3 at a time, then cooled cocoa mixture.\n- Bake.\n- For caramel, sugar and 6tbsp water in saucepan over medium heat, cook 6-8 mins no stirring, until starts to turn deep amber.\n- Remove from heat and place in bowl cold water.\n- Slowly whisk in cream and vanilla -&gt; thick pouring consistency (can stir over heat if necessary).\n- Stir in salt and leave to cool.\n- For buttercream, whisk egg whites and sugar until smooth.\n- Place over pan of simmering water for 5mins, whisking occasionally until sugar dissolves - feels smooth, not grainy between fingertips.\n- Whisk about 7mins to stiff peaks.\n- Add butter and whisk about 5mins, until smooth and glossy - don't panic if appears to curdle, just keep whisking.\n- Add vanilla and 5 tbsp cooled caramel, 1tbsp at a time and mix until smooth.\n\n\nNotes\n\n\n- Not too chocolately or too sweet.\n- Buttercream very smooth and silky. Could do with less buttercream.\n- Caramel sauce did not work as stated - hard lumps of sugar and had to heat slowly to get mix with cream - next time would not dunk in cold water, but would add warm cream instead.",
+    "section": "4.4 Chocolate And Caramel Cake",
+    "text": "4.4 Chocolate And Caramel Cake\n\n\n\n\n47.5g cocoa\n120g light brown sugar\n1tsp vanilla\n87.5ml just boiled water\n210g P flour\n1/2 tsp BP\n1/2 tsp B of S\n125g butter\n140 sugar\n2 eggs\n\nFilling:\n150g sugar\n150ml double cream\n1/2 tsp vanilla\n1tsp sea salt\n\nTopping:\n110g egg white (&lt;3 eggs)\n160g sugar\n235g butter\n\n\n\n\n\n160C\n20-25 mins\n2 x 8” round\n\n\nMethod\n\n\n- Whisk cocoa, sugar, vanilla and water until smooth and leave cool 5 mins.\n- Cream butter and sugar, 3-5 mins, then beat in eggs 1 at a time.\n- Fold in dry 1/3 at a time, then cooled cocoa mixture.\n- Bake.\n- For caramel, sugar and 6tbsp water in saucepan over medium heat, cook 6-8 mins no stirring, until starts to turn deep amber.\n- Remove from heat and place in bowl cold water.\n- Slowly whisk in cream and vanilla -&gt; thick pouring consistency (can stir over heat if necessary).\n- Stir in salt and leave to cool.\n- For buttercream, whisk egg whites and sugar until smooth.\n- Place over pan of simmering water for 5mins, whisking occasionally until sugar dissolves - feels smooth, not grainy between fingertips.\n- Whisk about 7mins to stiff peaks.\n- Add butter and whisk about 5mins, until smooth and glossy - don't panic if appears to curdle, just keep whisking.\n- Add vanilla and 5 tbsp cooled caramel, 1tbsp at a time and mix until smooth.\n\n\nNotes\n\n\n- Not too chocolately or too sweet.\n- Buttercream very smooth and silky. Could do with less buttercream.\n- Caramel sauce did not work as stated - hard lumps of sugar and had to heat slowly to get mix with cream - next time would not dunk in cold water, but would add warm cream instead.",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Cakes</span>"
     ]
@@ -383,8 +393,8 @@
     "objectID": "cakes.html#chocolate-and-sweet-potato-loaf",
     "href": "cakes.html#chocolate-and-sweet-potato-loaf",
     "title": "4  Cakes",
-    "section": "4.4 Chocolate And Sweet Potato Loaf",
-    "text": "4.4 Chocolate And Sweet Potato Loaf\n\n\n\n\n250 boiled sweet potato\n100g plain chocolate\n125 marg\n150g light brown sugar\n2 eggs\n175g SR flour\n1/2 tsp BP\n75g chocolate chips\n\nTopping:\n100g plain chocolate\n25g marg\n2tbsp syrup\n25g chocolate chips\n\n\n\n\n\n160C\n50-60 mins\nloaf\n\n\nMethod\n\n\n- Mash potato and chocolate together.",
+    "section": "4.5 Chocolate And Sweet Potato Loaf",
+    "text": "4.5 Chocolate And Sweet Potato Loaf\n\n\n\n\n250 boiled sweet potato\n100g plain chocolate\n125 marg\n150g light brown sugar\n2 eggs\n175g SR flour\n1/2 tsp BP\n75g chocolate chips\n\nTopping:\n100g plain chocolate\n25g marg\n2tbsp syrup\n25g chocolate chips\n\n\n\n\n\n160C\n50-60 mins\nloaf\n\n\nMethod\n\n\n- Mash potato and chocolate together.",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Cakes</span>"
     ]
@@ -393,8 +403,8 @@
     "objectID": "cakes.html#chocolate-cake",
     "href": "cakes.html#chocolate-cake",
     "title": "4  Cakes",
-    "section": "4.5 Chocolate Cake ",
-    "text": "4.5 Chocolate Cake \n\n\n\n\n400g caster sugar\n100g cocoa\n300g P flour\n2tsp B of S\n1tsp salt\n500ml boiling water\n125ml oil\n1tbsp apple cider vinegar\n\n\n\n\n\n180C\n20-25 mins\n2 x 8” round\n\n\nMethod\n\n\n- Mix dry together.\n- Quickly add wet.",
+    "section": "4.6 Chocolate Cake ",
+    "text": "4.6 Chocolate Cake \n\n\n\n\n400g caster sugar\n100g cocoa\n300g P flour\n2tsp B of S\n1tsp salt\n500ml boiling water\n125ml oil\n1tbsp apple cider vinegar\n\n\n\n\n\n180C\n20-25 mins\n2 x 8” round\n\n\nMethod\n\n\n- Mix dry together.\n- Quickly add wet.\n\n\nNotes\n\n\n- 1.25 mix makes large 9\" cake.",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Cakes</span>"
     ]
@@ -403,8 +413,8 @@
     "objectID": "cakes.html#devils-food-cake",
     "href": "cakes.html#devils-food-cake",
     "title": "4  Cakes",
-    "section": "4.6 Devil’s Food Cake",
-    "text": "4.6 Devil’s Food Cake\n\n\n\n\n2oz cocoa\n6floz boiling water\n6oz marg\n12oz dark brown sugar\n3 eggs\n10oz P flour\n3/2tsp B of S\n1/4 tsp BP\n4floz soured cream/buttermilk\n\n\n\n\n\n180C\n30-35 mins\n9” round\n\n\nMethod\n\n\n- Mix and cool cocoa and water.\n- Cream marg, sugar and eggs.\n- Sift dry twice.\n- Add dry to creamed in 3 batches, alternating with dairy.\n\n\nNotes\n\n\n- Comes out a tall 2x8\", think would be better to have 3x8\".\n- 150g cream/choc was enough ganache to fill and top 2x8\", but not sides.",
+    "section": "4.7 Devil’s Food Cake",
+    "text": "4.7 Devil’s Food Cake\n\n\n\n\n2oz cocoa\n6floz boiling water\n6oz marg\n12oz dark brown sugar\n3 eggs\n10oz P flour\n3/2tsp B of S\n1/4 tsp BP\n4floz soured cream/buttermilk\n\n\n\n\n\n180C\n30-35 mins\n9” round\n\n\nMethod\n\n\n- Mix and cool cocoa and water.\n- Cream marg, sugar and eggs.\n- Sift dry twice.\n- Add dry to creamed in 3 batches, alternating with dairy.\n\n\nNotes\n\n\n- Comes out a tall 2x8\", think would be better to have 3x8\".\n- 150g cream/choc was enough ganache to fill and top 2x8\", but not sides.",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Cakes</span>"
     ]
@@ -413,8 +423,8 @@
     "objectID": "cakes.html#ginger-cake",
     "href": "cakes.html#ginger-cake",
     "title": "4  Cakes",
-    "section": "4.7 Ginger Cake ",
-    "text": "4.7 Ginger Cake \n\n\n\n\n8oz SR flour\n1/2tsp B of S\n2tsp ginger\n1/2tsp cinnamon\n1/4 pt milk\n4oz marg\n4tbsp treacle\n4os dark brown sugar\n2 eggs\n\n\n\n\n\n180C\n45 mins\n8” round\n\n\nMethod\n\n\n- Melt milk, marg, treacle, sugar.",
+    "section": "4.8 Ginger Cake ",
+    "text": "4.8 Ginger Cake \n\n\n\n\n8oz SR flour\n1/2tsp B of S\n2tsp ginger\n1/2tsp cinnamon\n1/4 pt milk\n4oz marg\n4tbsp treacle\n4os dark brown sugar\n2 eggs\n\n\n\n\n\n180C\n45 mins\n8” round\n\n\nMethod\n\n\n- Melt milk, marg, treacle, sugar.",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Cakes</span>"
     ]
@@ -423,8 +433,8 @@
     "objectID": "cakes.html#ginger-cake-1",
     "href": "cakes.html#ginger-cake-1",
     "title": "4  Cakes",
-    "section": "4.8 Ginger Cake ",
-    "text": "4.8 Ginger Cake \n\n\n\n\n350g P flour\n225g dark brown sugar\n2-3tsp ginger\n1tsp BP\nt/1tsp B of S\npinch salt\n1/2tsp cinammon\n1/2tsp allspice\n100ml oil\n225ml water\n4tbsp (~60g) treacle\n\n\n\n\n\n180C\n35-40 mins\n8” square",
+    "section": "4.9 Ginger Cake ",
+    "text": "4.9 Ginger Cake \n\n\n\n\n350g P flour\n225g dark brown sugar\n2-3tsp ginger\n1tsp BP\nt/1tsp B of S\npinch salt\n1/2tsp cinammon\n1/2tsp allspice\n100ml oil\n225ml water\n4tbsp (~60g) treacle\n\n\n\n\n\n180C\n35-40 mins\n8” square",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Cakes</span>"
     ]
@@ -433,8 +443,8 @@
     "objectID": "cakes.html#lemon-cake",
     "href": "cakes.html#lemon-cake",
     "title": "4  Cakes",
-    "section": "4.9 Lemon Cake ",
-    "text": "4.9 Lemon Cake \n\n\n\n\n295ml milk\n10ml apple cider vinegar\n120ml aquafaba\n115g butter\n120ml oil\n300g sugar\n1 tbsp lemon zest\n1 tbsp lemon extract\n1dsp vanilla\n350g P flour\n12g baking powder\n3g salt\nturmeric\n\n\n\n\n\n175C\n2 x 8” round\n\n\nMethod\n\n\n- Combine milk and vinegar and sit aside for buttermilk.\n- Mix aquafaba 1-2 mins high speed into light and foamy and set aside.\n- Beat butter, oil, sugar and lemon zest 3 mins until light and fluffy.\n- Mix in buttermilk and aquafaba.\n- Fold in rest, do not overmix.\n\n\nNotes\n\n\n- Paired with buttercream with lemon zest.",
+    "section": "4.10 Lemon Cake ",
+    "text": "4.10 Lemon Cake \n\n\n\n\n295ml milk\n10ml apple cider vinegar\n120ml aquafaba\n115g butter\n120ml oil\n300g sugar\n1 tbsp lemon zest\n1 tbsp lemon extract\n1dsp vanilla\n350g P flour\n12g baking powder\n3g salt\nturmeric\n\n\n\n\n\n175C\n2 x 8” round\n\n\nMethod\n\n\n- Combine milk and vinegar and sit aside for buttermilk.\n- Mix aquafaba 1-2 mins high speed into light and foamy and set aside.\n- Beat butter, oil, sugar and lemon zest 3 mins until light and fluffy.\n- Mix in buttermilk and aquafaba.\n- Fold in rest, do not overmix.\n\n\nNotes\n\n\n- Paired with buttercream with lemon zest.",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Cakes</span>"
     ]
@@ -443,8 +453,8 @@
     "objectID": "cakes.html#loaves",
     "href": "cakes.html#loaves",
     "title": "4  Cakes",
-    "section": "4.10 Loaves ",
-    "text": "4.10 Loaves \n\n\n\n\n5oz marg\n5oz caster\n2 eggs\n7oz SR flour\n3tbs milk\n\n\n\n\n\n180C\n60 mins\nloaf\n\n\nNotes\n\n\n- For Cherry & Almond add 4oz cherries and 2oz ground almond.\n- For Lemon Drizzle add zest 2 lemons and use 4tbsp (juice and caster sugar) to drizzle.",
+    "section": "4.11 Loaves ",
+    "text": "4.11 Loaves \n\n\n\n\n5oz marg\n5oz caster\n2 eggs\n7oz SR flour\n3tbs milk\n\n\n\n\n\n180C\n60 mins\nloaf\n\n\nNotes\n\n\n- For Cherry & Almond add 4oz cherries and 2oz ground almond.\n- For Lemon Drizzle add zest 2 lemons and use 4tbsp (juice and caster sugar) to drizzle.",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Cakes</span>"
     ]
@@ -453,8 +463,8 @@
     "objectID": "cakes.html#marbled-chocolate-and-orange",
     "href": "cakes.html#marbled-chocolate-and-orange",
     "title": "4  Cakes",
-    "section": "4.11 Marbled Chocolate And Orange",
-    "text": "4.11 Marbled Chocolate And Orange\n\n\n\n\n8oz mix\n1tsp BP\nzest 1-2 oranges\n4tsp orange juice\n2tbsp cocoa\n4oz plain choc (melted)\n\n\n\n\n\n180C\n75 mins\n8” round",
+    "section": "4.12 Marbled Chocolate And Orange",
+    "text": "4.12 Marbled Chocolate And Orange\n\n\n\n\n8oz mix\n1tsp BP\nzest 1-2 oranges\n4tsp orange juice\n2tbsp cocoa\n4oz plain choc (melted)\n\n\n\n\n\n180C\n75 mins\n8” round",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Cakes</span>"
     ]
@@ -463,8 +473,8 @@
     "objectID": "cakes.html#raspberry-and-almond-cake",
     "href": "cakes.html#raspberry-and-almond-cake",
     "title": "4  Cakes",
-    "section": "4.12 Raspberry And Almond Cake",
-    "text": "4.12 Raspberry And Almond Cake\n\n\n\n\n4oz SR flour\n2oz ground almonds\n5oz caster sugar\n2eggs\n4floz (5oz) yoghurt\n4floz oil\n1tsp vanilla/almond\n5oz raspberries\nflaked almonds, for topping\n\n\n\n\n\n170C\n50-60 mins\n8” round\n\n\nMethod\n\n\n- Whisk eggs, yoghurt, oil, essence.",
+    "section": "4.13 Raspberry And Almond Cake",
+    "text": "4.13 Raspberry And Almond Cake\n\n\n\n\n4oz SR flour\n2oz ground almonds\n5oz caster sugar\n2eggs\n4floz (5oz) yoghurt\n4floz oil\n1tsp vanilla/almond\n5oz raspberries\nflaked almonds, for topping\n\n\n\n\n\n170C\n50-60 mins\n8” round\n\n\nMethod\n\n\n- Whisk eggs, yoghurt, oil, essence.",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Cakes</span>"
     ]
@@ -473,8 +483,8 @@
     "objectID": "cakes.html#raspberry-and-white-chocolate-cake",
     "href": "cakes.html#raspberry-and-white-chocolate-cake",
     "title": "4  Cakes",
-    "section": "4.13 Raspberry And White Chocolate Cake",
-    "text": "4.13 Raspberry And White Chocolate Cake\n\n\n\n\n8oz mix\n100g white chocolate\n175 raspberries\n\nFilling:\n200g white chocolate\n250ml double cream\n\n\n\n\n\n160C\n20-25 mins\n2 x 8” round\n\n\nMethod\n\n\n- Melt butter and chocolate together, cool 2mins.\n- Beat in eggs and sugar.\n- Fold in flour and raspberries.\n\n\nNotes\n\n\n- Sweet.\n- Raspberries sunk, but maybe because cooked as one big cake.\n- Used oat cream for ganache, which was more like pouring cream, but still worked.",
+    "section": "4.14 Raspberry And White Chocolate Cake",
+    "text": "4.14 Raspberry And White Chocolate Cake\n\n\n\n\n8oz mix\n100g white chocolate\n175 raspberries\n\nFilling:\n200g white chocolate\n250ml double cream\n\n\n\n\n\n160C\n20-25 mins\n2 x 8” round\n\n\nMethod\n\n\n- Melt butter and chocolate together, cool 2mins.\n- Beat in eggs and sugar.\n- Fold in flour and raspberries.\n\n\nNotes\n\n\n- Sweet.\n- Raspberries sunk, but maybe because cooked as one big cake.\n- Used oat cream for ganache, which was more like pouring cream, but still worked.",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Cakes</span>"
     ]
@@ -483,110 +493,70 @@
     "objectID": "cakes.html#victoria-cake",
     "href": "cakes.html#victoria-cake",
     "title": "4  Cakes",
-    "section": "4.14 Victoria Cake ",
-    "text": "4.14 Victoria Cake \n\n\n\n\n8oz mix\n1tsp BP\n\n\n\n\n\n180C\n25-30 mins\n2 x 8” round\n\n\nNotes\n\n\n- Or makes 20 fairy cakes or 16 cupcakes.",
+    "section": "4.15 Victoria Cake ",
+    "text": "4.15 Victoria Cake \n\n\n\n\n8oz mix\n1tsp BP\n\n\n\n\n\n180C\n25-30 mins\n2 x 8” round\n\n\nNotes\n\n\n- Or makes 20 fairy cakes or 16 cupcakes.",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Cakes</span>"
     ]
   },
   {
-    "objectID": "desserts.html",
-    "href": "desserts.html",
-    "title": "5  Desserts",
+    "objectID": "desserts-and-confectionery.html",
+    "href": "desserts-and-confectionery.html",
+    "title": "5  Desserts and Confectionery",
     "section": "",
     "text": "5.1 Bakewell Tart\nMethod\n- Shape pastry into disc and chill half an hour.\n- Roll and line tart.\n- Prick and freeze 20mins.\n- Bake with beans 20mins, then without 10mins until pale golden then set aside.\n- Whisk melted butter and sugar, then whisk in flours.\n- Gradually whisk in aquafaba, then rest of frangipane.\n- Assemble and bake 30-45mins.",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Desserts</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Desserts and Confectionery</span>"
     ]
   },
   {
-    "objectID": "desserts.html#bakewell-tart",
-    "href": "desserts.html#bakewell-tart",
-    "title": "5  Desserts",
+    "objectID": "desserts-and-confectionery.html#bakewell-tart",
+    "href": "desserts-and-confectionery.html#bakewell-tart",
+    "title": "5  Desserts and Confectionery",
     "section": "",
     "text": "Pastry:\n250g P flour\n40g icing sugar\n1/4tsp salt\n150g butter\n\nFilling:\n80g melted butter\n130g sugar\n60g P flour\n10g cornflour\n90ml aquafaba\n200g ground almonds\n1tsp BP\n1/2tsp almond extract\n6tbsp raspberry jam\n\nTopping:\n150g raspberries\nflaked almonds\n\n\n\n\n\n180C\n23-25cm tart",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Desserts</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Desserts and Confectionery</span>"
     ]
   },
   {
-    "objectID": "desserts.html#chocolate-caramels",
-    "href": "desserts.html#chocolate-caramels",
-    "title": "5  Desserts",
-    "section": "5.2 Chocolate Caramels  ",
-    "text": "5.2 Chocolate Caramels  \n\n\n\n\n100g dark brown sugar\n2tbsp water\n2tbsp tahini or nut butter\n2tbsp coconut oil or vegan butter\n1/4 tsp fine sea salt\n1/2 tsp vanilla\n300g dark chocolate\n\n\n\n\n\n35\n\n\nMethod\n\n\n- Heat sugar and water until dissolved and starting to bubble - swirl if necessary - 2-3 mins max.\n- Remove from heat and add oil, tahini, salt and vanilla and stir.\n- Heat very low for 30 seconds if won't come together.\n- Cool - will be very runny at first, but will thicken as cools.\n- Once cool, line moulds with 3mm chocolate and leave couple of mins.\n- Then fill with cool caramel and top with 2-3mm chocolate.\n- After 30 mins in freezer, can demould.\n\n\nNotes\n\n\n- Thought the tahini was quite strong, but were liked by others. Maybe peanut butter would be nice?",
+    "objectID": "desserts-and-confectionery.html#chocolate-fudge",
+    "href": "desserts-and-confectionery.html#chocolate-fudge",
+    "title": "5  Desserts and Confectionery",
+    "section": "5.2 Chocolate Fudge ",
+    "text": "5.2 Chocolate Fudge \n\n\n\n\n350g dark chocolate\n370g vegan condensed milk\nchopped nuts to decorate\n\n\n\n\n\n20cm square\n\n\nMethod\n\n\n- Melt over low heat, stirring occasionally until smooth and silky.\n- Press into tin and chill for 1 hour or until set.\n\n\nNotes\n\n\n- Was ok, would be ok use of leftover condensed milk.\n- One third of recipe in large glass clip tub was under 2cm thick.",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Desserts</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Desserts and Confectionery</span>"
     ]
   },
   {
-    "objectID": "desserts.html#chocolate-fudge",
-    "href": "desserts.html#chocolate-fudge",
-    "title": "5  Desserts",
-    "section": "5.3 Chocolate Fudge ",
-    "text": "5.3 Chocolate Fudge \n\n\n\n\n350g dark chocolate\n370g vegan condensed milk\nchopped nuts to decorate\n\n\n\n\n\n20cm square\n\n\nMethod\n\n\n- Melt over low heat, stirring occasionally until smooth and silky.\n- Press into tin and chill for 1 hour or until set.\n\n\nNotes\n\n\n- Was ok, would be ok use of leftover condensed milk.\n- One third of recipe in large glass clip tub was under 2cm thick.",
+    "objectID": "desserts-and-confectionery.html#chocolate-pudding",
+    "href": "desserts-and-confectionery.html#chocolate-pudding",
+    "title": "5  Desserts and Confectionery",
+    "section": "5.3 Chocolate Pudding ",
+    "text": "5.3 Chocolate Pudding \n\n\n\n\n67g sugar\n11g cocoa\n1.5tbsp cornstarch\n305g milk\n1tbsp butter\nvanilla\n\n\n\n\n\n3 dessert pots\n\n\nMethod\n\n\n- Whisk sugar, cocoa and cornstarch until no lumps in a pan.\n- Add milk and combine.\n- Heat to simmer and whisk often.\n- Simmer about 3 mins until slightly thickened and glossy.\n- Remove from heat and whisk in butter and vanilla.\n- Pour into dishes and chill overnight.\n\n\nNotes\n\n\n- Will thicken as it cools.\n- Unsure about this recipe - was ok, but texture a bit odd.",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Desserts</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Desserts and Confectionery</span>"
     ]
   },
   {
-    "objectID": "desserts.html#chocolate-tart",
-    "href": "desserts.html#chocolate-tart",
-    "title": "5  Desserts",
+    "objectID": "desserts-and-confectionery.html#chocolate-tart",
+    "href": "desserts-and-confectionery.html#chocolate-tart",
+    "title": "5  Desserts and Confectionery",
     "section": "5.4 Chocolate Tart ",
     "text": "5.4 Chocolate Tart \n\n\n\n\nBase:\n350g digestives\n2tbsp cocoa\n1tbsp P flour\n1tbsp syrup\n125g-175g butter\n\nFilling:\n2 x 400g cans coconut milk, chilled\n200g dark chocolate\n1tbsp syrup\n\n\n\n\n\n180C\n45577 mins\n23cm tart\n\n\nMethod\n\n\n- Crush biscuits, mix in rest and enough butter to create dough.\n- Press into tin, bake and cool.\n- Whisk melted chocolate, syrup and only thick coconut (discard water).\n- Pour over base and set in fridge for 3-4 hours.\n\n\nNotes\n\n\n- Kept in fridge for few days.\n- Nice with raspberries.",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Desserts</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Desserts and Confectionery</span>"
     ]
   },
   {
-    "objectID": "desserts.html#crumble-topping",
-    "href": "desserts.html#crumble-topping",
-    "title": "5  Desserts",
-    "section": "5.5 Crumble Topping   ",
-    "text": "5.5 Crumble Topping   \n\n\n\n\n4oz P flour\n4oz marg\n2oz oats\n3oz sugar\n2oz coconut\n\n\n\n\n\n180C\n35-40 mins\nlarge red dish\n\n\nNotes\n\n\n- Good for using up frozen fruits.\n- For large red dish want about 600g fruits.",
+    "objectID": "desserts-and-confectionery.html#chocolate-truffles",
+    "href": "desserts-and-confectionery.html#chocolate-truffles",
+    "title": "5  Desserts and Confectionery",
+    "section": "5.5 Chocolate Truffles ",
+    "text": "5.5 Chocolate Truffles \n\n\n\n\n300g dark chocolate\n240ml coconut cream\ndessicated coconut\n\n\n\n\n\n28\n\n\nNotes\n\n\n- Very soft - maybe coat in chocolate, or add nut in centre?",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Desserts</span>"
-    ]
-  },
-  {
-    "objectID": "desserts.html#easy-chocolate-pudding",
-    "href": "desserts.html#easy-chocolate-pudding",
-    "title": "5  Desserts",
-    "section": "5.6 Easy Chocolate Pudding",
-    "text": "5.6 Easy Chocolate Pudding\n\n\n\n\n50g P flour\n1/2tsp BP\n1tbs cocoa\n50g caster sugar\n50g melted butter\n1 egg\nvanilla\n1- tbs milk\n25g nuts\n\nTopping:\n50g brown sugar\n1tbs cocoa\n60ml hot water\n\n\n\n\n\n180C\n30 mins\n1/2 litre dish\n\n\nMethod\n\n\n- Pour topping on top before baking (becomes a sauce underneath sponge).\n\n\nNotes\n\n\n- Serves 3.",
-    "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Desserts</span>"
-    ]
-  },
-  {
-    "objectID": "desserts.html#steamed-syrup-cake",
-    "href": "desserts.html#steamed-syrup-cake",
-    "title": "5  Desserts",
-    "section": "5.7 Steamed Syrup Cake",
-    "text": "5.7 Steamed Syrup Cake\n\n\n\n\n1tbsp breadcrumbs\n3tbsp syrup\n6oz mix\n\n\n\n\n\n90 mins\n1 litre bowl\n\n\nMethod\n\n\n- Put breadcrumbs and syrup at bottom of dish.\n\n\nNotes\n\n\n- Optional lemon zest.",
-    "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Desserts</span>"
-    ]
-  },
-  {
-    "objectID": "desserts.html#sticky-toffee-pudding",
-    "href": "desserts.html#sticky-toffee-pudding",
-    "title": "5  Desserts",
-    "section": "5.8 Sticky Toffee Pudding ",
-    "text": "5.8 Sticky Toffee Pudding \n\n\n\n\n120ml water\n200g dates\n110g butter\n110g light brown sugar\n200g SR flour\n1tsp B of S\n1tbsp ginger\n2tsp mixed spice\n1tsp cinnamon\n240ml milk\n1tbsp apple cider vinegar\nSauce:\n3tbsp syrup\n200g light brown sugar\n150g butter\n1tsp vanilla\n\n\n\n\n\n170C\n50 mins\n1 litre dish\n\n\nMethod\n\n\n- Simmer dates in water for 5mins.\n- Cream butter and sugar.\n- Add vinegar very very last.\n- Melt sauce ingredients and simmer 5m.\n- Prick, pour over 1/2 sauce. Rest to serve.",
-    "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Desserts</span>"
-    ]
-  },
-  {
-    "objectID": "desserts.html#yule-log",
-    "href": "desserts.html#yule-log",
-    "title": "5  Desserts",
-    "section": "5.9 Yule Log",
-    "text": "5.9 Yule Log\n\n\n\n\n4 eggs\n100g caster sugar\n65g SR flour\n40g cocoa\n\nFilling:\n200g/ml ganache\ncream\nberries\n\n\n\n\n\n200C\n8-10 mins\n13x9”",
-    "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Desserts</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Desserts and Confectionery</span>"
     ]
   },
   {
@@ -655,6 +625,16 @@
     "title": "7  Extras",
     "section": "7.2 Chocolate Ganache",
     "text": "7.2 Chocolate Ganache\n\n\n\n\n100g plain/white chocolate\n100ml double cream\n\n\n\n\n\n\n\n\nMethod\n\n\n- Heat cream, pour over, sit, whisk 10 mins or chill slightly.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Extras</span>"
+    ]
+  },
+  {
+    "objectID": "extras.html#lemon-curd",
+    "href": "extras.html#lemon-curd",
+    "title": "7  Extras",
+    "section": "7.3 Lemon Curd ",
+    "text": "7.3 Lemon Curd \n\n\n\n\n120ml milk\n61ml lemon juice\n1tbsp lemon zest\n100g granulated sugar\n1tbsp cornstarch\n1tbsp butter\nturmeric\n\n\n\n\n\n\n\n\nMethod\n\n\n- Whisk over medium heat until thickens, about 5-10 mins.\n\n\nNotes\n\n\n- Will thicken a bit as it cools.\n- Half this is enough for lemon sandwich biscuits.",
     "crumbs": [
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Extras</span>"
     ]
