@@ -734,7 +734,17 @@
     "href": "pancakes-and-scones.html",
     "title": "9  Pancakes and Scones",
     "section": "",
-    "text": "9.1 Classic Scones\nMethod\n- Mix dry.\n- Rub in butter to breadcrumbs.\n- Stir in sugar (and fruit).\n- Warm milk about 30seconds then add vanilla and lemon and set aside for a moment.\n- Heat baking tray.\n- Add wet to dry well and combine quickly with knife.\n- Tip onto floured surface, dredge with flour and fold over 2-3 times.\n- Pat into about 4cm high, cut, glaze, bake.",
+    "text": "9.1 Cheese Scones\nMethod\n- Mix dry, then rub in butter to breadcrumbs.\n- Stir in cheese.\n- Beat egg in jug and add milk.\n- Add most wet to dry, but keep a little for glazing.\n- Roll to 1.5cm thick.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Pancakes and Scones</span>"
+    ]
+  },
+  {
+    "objectID": "pancakes-and-scones.html#cheese-scones",
+    "href": "pancakes-and-scones.html#cheese-scones",
+    "title": "9  Pancakes and Scones",
+    "section": "",
+    "text": "225g SR flour\n1tsp mustard powder\n1/4tsp salt\npinch cayenne\n1tsp BP\n55g butter\n100g grated cheese\n1 egg\n120ml milk\n\n\n\n\n\n190C\n10 mins\n10 x 7.5cm",
     "crumbs": [
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Pancakes and Scones</span>"
     ]
@@ -743,8 +753,8 @@
     "objectID": "pancakes-and-scones.html#classic-scones",
     "href": "pancakes-and-scones.html#classic-scones",
     "title": "9  Pancakes and Scones",
-    "section": "",
-    "text": "350g SR flour\n1tsp BP\n85g butter\n3tbsp caster sugar\noptional 85g fruit\n175ml milk\n1tsp vanilla\nsqueeze lemon juice\n\n\n\n\n\n200C\n10 mins\n6 x 7.8cm or 14 x 5.8cm",
+    "section": "9.2 Classic Scones  ",
+    "text": "9.2 Classic Scones  \n\n\n\n\n350g SR flour\n1tsp BP\n85g butter\n3tbsp caster sugar\noptional 85g fruit\n175ml milk\n1tsp vanilla\nsqueeze lemon juice\n\n\n\n\n\n200C\n10 mins\n6 x 7.8cm or 14 x 5.8cm\n\n\nMethod\n\n\n- Mix dry.\n- Rub in butter to breadcrumbs.\n- Stir in sugar (and fruit).\n- Warm milk about 30seconds then add vanilla and lemon and set aside for a moment.\n- Heat baking tray.\n- Add wet to dry well and combine quickly with knife.\n- Tip onto floured surface, dredge with flour and fold over 2-3 times.\n- Pat into about 4cm high, cut, glaze, bake.",
     "crumbs": [
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Pancakes and Scones</span>"
     ]
@@ -753,8 +763,8 @@
     "objectID": "pancakes-and-scones.html#crepes",
     "href": "pancakes-and-scones.html#crepes",
     "title": "9  Pancakes and Scones",
-    "section": "9.2 Crepes",
-    "text": "9.2 Crepes\n\n\n\n\n125g P flour\n1tsp caster sugar\npinch salt\n2 eggs\n300ml milk\n20g melted butter",
+    "section": "9.3 Crepes",
+    "text": "9.3 Crepes\n\n\n\n\n125g P flour\n1tsp caster sugar\npinch salt\n2 eggs\n300ml milk\n20g melted butter",
     "crumbs": [
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Pancakes and Scones</span>"
     ]
@@ -763,8 +773,8 @@
     "objectID": "pancakes-and-scones.html#pancakes",
     "href": "pancakes-and-scones.html#pancakes",
     "title": "9  Pancakes and Scones",
-    "section": "9.3 Pancakes ",
-    "text": "9.3 Pancakes \n\n\n\n\n150g SR flour\n1/2 tsp BP\n1/2tbsp sugar\n1/2tbsp vanilla\n200ml milk\noil for cooking\n\n\n\n\n\n12 x 2 spoons",
+    "section": "9.4 Pancakes ",
+    "text": "9.4 Pancakes \n\n\n\n\n150g SR flour\n1/2 tsp BP\n1/2tbsp sugar\n1/2tbsp vanilla\n200ml milk\noil for cooking\n\n\n\n\n\n12 x 2 spoons",
     "crumbs": [
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Pancakes and Scones</span>"
     ]
@@ -773,8 +783,8 @@
     "objectID": "pancakes-and-scones.html#scones",
     "href": "pancakes-and-scones.html#scones",
     "title": "9  Pancakes and Scones",
-    "section": "9.4 Scones   ",
-    "text": "9.4 Scones   \n\n\n\n\n8oz SR flour\n1tsp BP\npinch salt\n2oz butter\n2oz caster sugar\n1/4 pt milk\n\n\n\n\n\n220C\n10 mins",
+    "section": "9.5 Scones   ",
+    "text": "9.5 Scones   \n\n\n\n\n8oz SR flour\n1tsp BP\npinch salt\n2oz butter\n2oz caster sugar\n1/4 pt milk\n\n\n\n\n\n220C\n10 mins",
     "crumbs": [
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Pancakes and Scones</span>"
     ]
@@ -783,8 +793,8 @@
     "objectID": "pancakes-and-scones.html#scotch-pancakes",
     "href": "pancakes-and-scones.html#scotch-pancakes",
     "title": "9  Pancakes and Scones",
-    "section": "9.5 Scotch Pancakes ",
-    "text": "9.5 Scotch Pancakes \n\n\n\n\n8oz SR flour\n1tsp BP\n2oz caster sugar\npinch salt\n2 eggs\nmilk -&gt; dropping consistency",
+    "section": "9.6 Scotch Pancakes ",
+    "text": "9.6 Scotch Pancakes \n\n\n\n\n8oz SR flour\n1tsp BP\n2oz caster sugar\npinch salt\n2 eggs\nmilk -&gt; dropping consistency",
     "crumbs": [
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Pancakes and Scones</span>"
     ]
@@ -793,8 +803,8 @@
     "objectID": "pancakes-and-scones.html#treacle-scones",
     "href": "pancakes-and-scones.html#treacle-scones",
     "title": "9  Pancakes and Scones",
-    "section": "9.6 Treacle Scones  ",
-    "text": "9.6 Treacle Scones  \n\n\n\n\n8oz SR flour\n2oz butter\npinch salt\n1oz sugar\n1/2 tsp cinammon\n2tbs treacle\nmilk\n\n\n\n\n\n220C\n10-15 mins\n8 x medium\n\n\nMethod\n\n\n- Rub flour and butter together.",
+    "section": "9.7 Treacle Scones  ",
+    "text": "9.7 Treacle Scones  \n\n\n\n\n8oz SR flour\n2oz butter\npinch salt\n1oz sugar\n1/2 tsp cinammon\n2tbs treacle\nmilk\n\n\n\n\n\n220C\n10-15 mins\n8 x medium\n\n\nMethod\n\n\n- Rub flour and butter together.",
     "crumbs": [
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Pancakes and Scones</span>"
     ]
