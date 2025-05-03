@@ -22,7 +22,7 @@
 | Plastic measuring jug     | 48  | 1.7  |
 | Large glass measuring jug | 522 | 18.4 |
 
-## Brownie method
+## Brownie method {#sec-brownie-method}
 
 Makes thick gloopy batter and nice gooey brownies.
 
@@ -31,13 +31,13 @@ Makes thick gloopy batter and nice gooey brownies.
 -   Beat eggs in small jug with fork.
 -   Well method to combine everything, just before going in the oven.
 
-## Aquafaba
+## Aquafaba {#sec-aquafaba}
 
 - Whip on speed 4.
 - 4-5 mins for light and fluffy.
 - 8 mins for stiff peaks?
 
-## Other notes
+## Other notes {#sec-other}
 
 -   When using apple cider vinegar and BP in vegan cakes, once mixed get in oven quickly.
--   Chocolate chips work better than cut up chocolate in cookies (because way they melt?).
+-   Chocolate chips work better than cut up chocolate in cookies (because the way they melt?).
