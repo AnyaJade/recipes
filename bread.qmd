@@ -1,20 +1,252 @@
 ## Bread
 
 ```{r}
-source("R/functions.R")
+family <- "{{< fa heart size=2xs >}}"
+freezes <- "{{< fa snowflake size=2xs >}}"
+vegan <- "{{< fa leaf size=2xs >}}"
 ```
 
-```{r}
-recipes <- readxl::read_excel("recipes.xlsx")
-```
+##  Basic Bread `r freezes` `r vegan`
 
-```{r}
-#| output: asis
+:::: {.columns}
 
-get_recipes(recipes, "bread") |>
-  cat(sep = '\n')
-```
+::: {.column width="80%"}
 
+500g bread flour \
+1/2tsp salt \
+1tsp yeast \
+1tsp sugar \
+1tbsp oil \
+325ml warm water
 
+:::
 
+::: {.column width="20%"}
+
+220° \
+35mins \
+Loaf
+
+:::
+
+::::
+
+## Focaccia `r freezes` `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+500g bread flour \
+7g yeast \
+2 + 1.5 + 1 tbsp olive oil \
+salt \
+rosemary \
+350-400ml water
+
+:::
+
+::: {.column width="20%"}
+
+200° \
+25mins \
+25 x 35"
+
+:::
+
+::::
+
+*Method*
+
+1. Knead 5-10mins.
+1. Prove 1hr.
+1. Stretch to fit tin.
+1. Prove 45m.
+1. Dimple, add rosemary, drizzle with oil, 1tbsp water, salt.
+1. Bake.
+1. Drizzle with oil while hot.
+
+*Notes*
+
+- Half mix fits nicely in 20cm square.
+
+##  Fruit and nut rolls `r freezes` `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+150g wholemeal bread flour \
+150g P flour \
+1tsp salt \
+1tsp yeast \
+1tsp brown sugar \
+1tsp oil \
+110g nuts \
+100g fruit
+
+:::
+
+::: {.column width="20%"}
+
+200° \
+15-20mins \
+8
+
+:::
+
+::::
+
+*Method*
+
+1. Combine flour, salt and yeast.
+. Mix 200ml hot water with sugar and oil.
+1. Form dough and knead 5 mins.
+1. Press into 30cm square, scatter fruit and nuts, roll, cut, shape.
+1. Prove 1h 15m then bake.
+
+## Garlic doughballs `r freezes` `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+50g butter \
+300g white bread flour \
+7g yeast \
+1tbsp sugar \
+1tsp salt
+
+Topping: \
+100g butter \
+1 garlic clove
+
+:::
+
+::: {.column width="20%"}
+
+160° \
+25-30mins \
+30
+
+:::
+
+::::
+
+*Method*
+
+1. Add butter to 175ml warm water first.
+1. Knead 5mins until bouncy and smooth.
+1. Prove 1.5-2 hours.
+1. Knock back and knead for several minutes.
+1. Roll into balls about 0.5cm apart.
+1. Prove 30mins.
+1. Bake then brush some of the butter and leave cool for 5 mins.
+
+## Pizza dough `r freezes` `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+1/2tsp yeast \
+150ml warm water \
+1/4tsp sugar \
+220g P flour \
+3/2tbsp extra virgin olive oil \
+1/3tsp salt \
+semolina
+
+:::
+
+::: {.column width="20%"}
+
+:::
+
+::::
+
+*Method*
+
+1. Bloom yeast, water and sugar for 10mins -> bubble.
+1. Combine until shaggy dough.
+1. Knead 10-15min.
+1. Prove.
+1. Semolina under dough on baking tray.
+
+## Rolls `r freezes` `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+500g bread flour \
+340ml water \
+4g yeast \
+8g salt \
+6g sugar
+
+:::
+
+::: {.column width="20%"}
+
+200° \
+16-18mins \
+10 rolls
+
+:::
+
+::::
+
+*Method*
+
+1. Bloom yeast.
+1. Gradually add dry.
+1. Knead 10mins.
+1. Turn and prove 1hr.
+1. Turn and prove 30mins.
+1. Roll balls and rest 5 mins.
+1. Shape into ovals.
+1. Prove 20mins.
+1. Bake.
+
+*Notes*
+
+- Add steam to oven.
+
+## Yeast-raised no-knead flatbreads `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+500g P flour \
+7g yeast \
+360ml water \
+1tbsp oilve oil \
+1tbsp sugar \
+1tsp salt
+
+:::
+
+::: {.column width="20%"}
+
+12 flatbreads
+
+:::
+
+::::
+
+*Method*
+
+1. Bloom yeast with olive oil.
+1. Add wet to dry and mix with spoon.
+1. Prove 30-60mins.
+1. Make balls then roll into flatbreads.
+1. Cook on skillet for 30 seconds (bubbles form on top).
+1. Flip and cook for another 30 seconds.
+
+*Notes*
+
+- Soft, tasty, good for gyros/falafels.
+- Kept at room temperature for a few days and reheated well. Have not tried freezing.
 
