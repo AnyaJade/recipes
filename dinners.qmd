@@ -1,20 +1,113 @@
 ## Dinners
 
 ```{r}
-source("R/functions.R")
-```
+source("icons.R")
+```  
+  
+## Bean burgers `r freezes` `r vegan`
 
-```{r}
-recipes <- readxl::read_excel("recipes.xlsx")
-```
+:::: {.columns}
 
-```{r}
-#| output: asis
+::: {.column width="80%"}
 
-get_recipes(recipes, "dinners") |>
-  cat(sep = '\n')
-```
+400g black beans \
+300g sweet potato, mashed \
+black pepper \
+cumin \
+paprika \
+fresh coriander
 
+:::
 
+::: {.column width="20%"}
 
+8 burgers
 
+:::
+
+::::
+
+*Method*
+
+1. Mash everything together, shape and freeze.
+
+  
+## Falafel `r freezes` `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+16oz dried chickpeas \
+1/2tsp BofS \
+1 small onion \
+1/4 cup parsley \
+3-5 cloves garlic \
+3/2 tbs gram flour \
+1.75 tsp salt \
+2tsp cumin \
+1tsp ground coriander \
+1/4tsp black pepper \
+1/4tsp cayenne pepper \
+pinch cardamom \
+1tsp BP \
+oil for frying
+
+:::
+
+::: {.column width="20%"}
+
+182-190° \
+
+:::
+
+::::
+
+*Method*
+
+1. Soak chickpeas in water and BofS 12-24 hours.
+1. Drain and rinse well.
+1. Food process everything until rough, coarse meal forms - between couscous and paste.
+1. Refrigerate 1-2 hours.
+1. Shape into balls - will stick together loosely at first, but will bind once begin to fry.
+1. If won't bind, try processor again to make more paste-like.
+1. If stil not, try adding flour.
+1. Fry 2-3 mins per side.
+
+*Notes*
+
+- 9.5oz chickpeas made enough for 5 people.
+- Can freeze cooked falafel and reheat in oven from frozen, but not as good as fresh.
+
+## Toad-in-hole
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+70g P flour \
+1 egg \
+87.5ml milk \
+seasoning
+
+:::
+
+::: {.column width="20%"}
+
+200° \
+25-30mins \
+Small glass square
+
+:::
+
+::::
+
+*Method*
+
+1. Cook 3 sausages in oil in oven.
+1. Make batter and leave to stand until sausages ready.
+1. Pour batter into hot dish and cook until risen and golden.
+
+*Notes*
+
+- Can use oat milk.

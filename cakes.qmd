@@ -1,10 +1,8 @@
 ## Cakes
 
 ```{r}
-family <- "{{< fa heart size=2xs >}}"
-freezes <- "{{< fa snowflake size=2xs >}}"
-vegan <- "{{< fa leaf size=2xs >}}"
-```
+source("icons.R")
+``` 
 
 ## Apple crumble cake `r vegan`
 
@@ -15,7 +13,7 @@ vegan <- "{{< fa leaf size=2xs >}}"
 300g apples \
 100ml oil \
 175g light brown sugar \
-0.5tbsp [apple cider vinegar](@sec-other) \
+0.5tbsp [apple cider vinegar](#sec-other) \
 1/2 tbsp vanilla \
 240ml milk \
 250g plain flour \
@@ -230,7 +228,7 @@ Loaf
 1tsp salt \
 500ml boiling water \
 125ml oil \
-1tbsp [apple cider vinegar](@sec-other)
+1tbsp [apple cider vinegar](#sec-other)
 
 :::
 
@@ -365,7 +363,7 @@ pinch salt \
 
 ::: {.column width="80%"}
 
-150ml [aquafaba](@sec-aquafaba) \
+150ml [aquafaba](#sec-aquafaba) \
 180g sugar \
 150g P flour \
 40g cocoa \
@@ -388,8 +386,8 @@ icing sugar
 
 *Method*
 
-1. Whisk [aquafaba](@sec-aquafaba) and sugar to white and fluffy (~5min, speed 4). 
-1. Combine dry ingredients, then gently fold in [aquafaba](@sec-aquafaba) mix.
+1. Whisk [aquafaba](#sec-aquafaba) and sugar to white and fluffy (~5min, speed 4). 
+1. Combine dry ingredients, then gently fold in [aquafaba](#sec-aquafaba) mix.
 1. Add oil and stir to smooth. 
 1. Bake until edges are firm and dry to touch, middle will be wet. 
 1. Cool in tin, dust.
@@ -405,8 +403,8 @@ icing sugar
 ::: {.column width="80%"}
 
 295ml milk \
-10ml [apple cider vinegar](@sec-other) \
-120ml [aquafaba](@sec-aquafaba) \
+10ml [apple cider vinegar](#sec-other) \
+120ml [aquafaba](#sec-aquafaba) \
 115g butter \
 20ml oil \
 300g sugar \
@@ -433,9 +431,9 @@ turmeric
 *Method*
 
 1. Combine milk and vinegar and sit aside for buttermilk. 
-1. Mix [aquafaba](@sec-aquafaba) 1-2 mins high speed into light and foamy and set aside. 
+1. Mix [aquafaba](#sec-aquafaba) 1-2 mins high speed into light and foamy and set aside. 
 1. Beat butter, oil, sugar and lemon zest 3 mins until light and fluffy. 
-1. Mix in buttermilk and [aquafaba](@sec-aquafaba). 
+1. Mix in buttermilk and [aquafaba](#sec-aquafaba). 
 1. Fold in rest, do not overmix.
 
 *Notes*
@@ -565,7 +563,7 @@ Filling: \
 - Sweet. 
 - Raspberries sunk, but maybe because cooked as one big cake. - Used oat cream for ganache, which was more like pouring cream, but still worked.
 
-## Victoria cake `r family` `r freezes`
+## Victoria cake `r family` `r freezes` {#sec-victoria}
 
 :::: {.columns}
 
@@ -589,3 +587,4 @@ Filling: \
 *Notes*
 
 - Or makes 20 fairy cakes or 16 cupcakes.
+- [Buttercream](#sec-buttercream)

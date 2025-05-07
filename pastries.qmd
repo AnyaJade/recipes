@@ -1,20 +1,79 @@
 ## Pastries
 
 ```{r}
-source("R/functions.R")
-```
+source("icons.R")
+```  
+  
+## Mince pie pastry `r family` `r freezes`
 
-```{r}
-recipes <- readxl::read_excel("recipes.xlsx")
-```
+:::: {.columns}
 
-```{r}
-#| output: asis
+::: {.column width="80%"}
 
-get_recipes(recipes, "pastries") |>
-  cat(sep = '\n')
-```
+10oz P flour \
+1tbsp ground almonds \
+6oz butter \
+3oz caster sugar \
+1/2 tsp lemon zest \
+1 egg yolk \
+3tbsp milk
 
+:::
 
+::: {.column width="20%"}
 
+200° \
+15mins \
+24 fairy-cake size
+
+:::
+
+::::
+
+## Quiche `r family` `r freezes` `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+8oz P flour \
+6oz butter \
+1 egg \
+1tbsp cold water
+
+:::
+
+::: {.column width="20%"}
+
+160° \
+28cm tart tin
+
+:::
+
+::::
+
+*Method*
+
+1. Make pastry, line tin, chill 15 mins.
+1. Bake 10mins with beans.
+1. Bake 10-15 ins without beans and leave to cool.
+
+## Shortcrust pastry `r freezes` `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+4oz P flour \
+2oz butter \
+pinch salt \
+2-3tbs cold water
+
+:::
+
+::: {.column width="20%"}
+
+:::
+
+::::
 

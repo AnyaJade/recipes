@@ -1,20 +1,438 @@
 ## Desserts and Confectionery
 
-
 ```{r}
-source("R/functions.R")
-```
+source("icons.R")
+```   
+  
+## Bakewell tart `r vegan`
 
-```{r}
-recipes <- readxl::read_excel("recipes.xlsx")
-```
+:::: {.columns}
 
-```{r}
-#| output: asis
+::: {.column width="80%"}
 
-get_recipes(recipes, "desserts and confectionery") |>
-  cat(sep = '\n')
-```
+Pastry: \
+250g P flour \
+40g icing sugar \
+1/4tsp salt \
+150g butter
+
+Filling: \
+80g melted butter \
+130g sugar \
+60g P flour \
+10g cornflour \
+90ml [aquafaba](#sec-aquafaba) \
+200g ground almonds \
+1tsp BP \
+1/2tsp almond extract \
+6tbsp raspberry jam 
+
+Topping: \
+150g raspberries \
+flaked almonds
+
+:::
+
+::: {.column width="20%"}
+
+180° \
+23-25cm tart
+
+:::
+
+::::
+
+*Method*
+
+1. Shape pastry into disc and chill half an hour.
+1. Roll and line tart.
+1. Prick and freeze 20mins.
+1. Bake with beans 20mins, then without 10mins until pale golden then set aside.
+1. Whisk melted butter and sugar, then whisk in flours.
+1. Gradually whisk in [aquafaba](#sec-aquafaba), then rest of frangipane.
+1. Assemble and bake 30-45mins.
+
+##  Chocolate caramels `r freezes` `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+100g dark brown sugar \
+2tbsp water \
+2tbsp tahini or nut butter \
+2tbsp coconut oil or vegan butter \
+1/4 tsp fine sea salt \
+1/2 tsp vanilla \
+300g dark chocolate
+
+:::
+
+::: {.column width="20%"}
+
+35 ice cubes
+
+:::
+
+::::
+
+*Method*
+
+1. Heat sugar and water until dissolved and starting to bubble - swirl if necessary - 2-3 mins max.
+1. Remove from heat and add oil, tahini, salt and vanilla and stir.
+1. Heat very low for 30 seconds if won't come together.
+1. Cool - will be very runny at first, but will thicken as cools.
+1. Once cool, line moulds with 3mm chocolate and leave couple of mins.
+1. Then fill with cool caramel and top with 2-3mm chocolate.
+1. After 30 mins in freezer, can demould.
+
+*Notes*
+
+- Thought the tahini was quite strong, but were liked by others. Maybe peanut butter would be nice?
+
+## Chocolate fudge `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+350g dark chocolate \
+370g vegan condensed milk \
+chopped nuts to decorate
+
+:::
+
+::: {.column width="20%"}
+
+20cm square
+
+:::
+
+::::
+
+*Method*
+
+1. Melt over low heat, stirring occasionally until smooth and silky. 
+1. Press into tin and chill for 1 hour or until set.
+
+*Notes*
+
+- Was ok, would be ok use of leftover condensed milk.
+- One third of recipe in large glass clip tub was under 2cm thick.
+
+## Chocolate pudding `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+65g sugar \
+2tbsp cocoa \
+1.5tbsp cornstarch \
+295ml milk \
+15g butter \
+0.5tsp vanilla
+
+:::
+
+::: {.column width="20%"}
+
+3 dessert pots
+
+:::
+
+::::
+
+*Method*
+
+1. Whisk sugar, cocoa and cornstarch until no lumps in a pan.
+1. Add milk and combine.
+1. Heat to simmer and whisk often.
+1. Simmer about 3 mins until slightly thickened and glossy.
+1. Remove from heat and whisk in butter and vanilla.
+1. Pour into dishes and chill overnight.
+
+*Notes*
+
+- Will thicken as it cools.
+- Unsure about this recipe - was ok, but texture a bit odd.
+
+## Chocolate tart `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+Base: \
+350g digestives \
+2tbsp cocoa \
+1tbsp P flour \
+1tbsp syrup \
+125g-175g butter
+
+Filling: \
+2 x 400g cans coconut milk, chilled \
+200g dark chocolate \
+1tbsp syrup
+
+:::
+
+::: {.column width="20%"}
+
+180° \
+10-12mins \
+23cm tart
+
+:::
+
+::::
+
+*Method*
+
+1. Crush biscuits, mix in rest and enough butter to create dough.
+1. Press into tin, bake and cool.
+1. Whisk melted chocolate, syrup and only thick coconut (discard water).
+1. Pour over base and set in fridge for 3-4 hours.
+
+*Notes*
+
+- Kept in fridge for few days.
+- Nice with raspberries.
+
+## Chocolate truffles `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+300g dark chocolate \
+240ml coconut cream \
+dessicated coconut
+
+:::
+
+::: {.column width="20%"}
+
+28 truffles
+
+:::
+
+::::
+
+*Notes*
+
+- Very soft - maybe coat in chocolate, or add nut in centre?
+
+##  Crumble topping `r family` `r freezes` `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+4oz P flour \
+4oz marg \
+2oz oats \
+3oz sugar \
+2oz coconut
+
+:::
+
+::: {.column width="20%"}
+
+180° \
+35-40mins \
+large red dish
+
+:::
+
+::::
+
+*Notes*
+
+- Good for using up frozen fruits.
+- For large red dish want about 600g fruits.
+- Third-half mix for small glass square.
+
+## Easy chocolate pudding
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+50g P flour \
+1/2tsp BP \
+1tbs cocoa \
+50g caster sugar \
+50g melted butter \
+1 egg \
+vanilla \
+1- tbs milk \
+25g nuts
+
+Topping: \
+50g brown sugar \
+1tbs cocoa \
+60ml hot water
+
+:::
+
+::: {.column width="20%"}
+
+180° \
+30mins \
+1/2 litre dish
+
+:::
+
+::::
+
+*Method*
+
+1. Pour topping on top before baking (becomes a sauce underneath sponge).
+
+*Notes*
+
+- Serves 3.
+
+## Rolos 
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+150g chocolate \
+100g granulated sugar \
+65ml double cream \
+40g butter
+
+:::
+
+::: {.column width="20%"}
+
+12 ice cube size
+
+:::
+
+::::
+
+*Method*
+
+1. Melt 2/3 chocolate over pan of hot water.
+1. Line molds with chocolate and chill.
+1. Cook sugar with minimal stirring over low-med flame until fluid and amber.
+1. Add butter and combine.
+1. Pour in cream, stir for a minute or two, remove from heat to cool (can add pinch salt if desired).
+1. Once caramel is cooled assemble and chill.
+
+*Notes*
+
+- Called them 'Blockos' because they were big - used ice tray, because don't have a mold.
+
+## Steamed syrup cake
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+1tbsp breadcrumbs \
+3tbsp syrup \
+6oz mix
+
+:::
+
+::: {.column width="20%"}
+
+90mins \
+1 litre bowl
+
+:::
+
+::::
+
+*Method*
+
+1. Put breadcrumbs and syrup at bottom of dish.
+
+*Notes*
+
+- Optional lemon zest.
+
+## Sticky toffee pudding `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+120ml water \
+200g dates \
+110g butter \
+110g light brown sugar \
+200g SR flour \
+1tsp B of S \
+1tbsp ginger \
+2tsp mixed spice \
+1tsp cinnamon \
+240ml milk \
+1tbsp [apple cider vinegar](#sec-other) 
+
+Sauce: \
+3tbsp syrup \
+200g light brown sugar \
+150g butter \
+1tsp vanilla
+
+:::
+
+::: {.column width="20%"}
+
+170° \
+50mins \
+1 litre dish
+
+:::
+
+::::
+
+*Method*
+
+1. Simmer dates in water for 5mins.
+1. Cream butter and sugar.
+1. Add vinegar very very last.
+1. Melt sauce ingredients and simmer 5m.
+1. Prick, pour over 1/2 sauce. Rest to serve.
+
+## Yule log `r family` `r freezes` `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+4 eggs \
+100g caster sugar \
+65g SR flour \
+40g cocoa 
+
+Filling: \
+200g/ml ganache \
+cream \
+berries
+
+:::
+
+::: {.column width="20%"}
+
+200° \
+8-10mins \
+13 x 9"
+
+:::
+
+::::
+
+
+
+
+
 
 
 

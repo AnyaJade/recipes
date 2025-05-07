@@ -1,9 +1,7 @@
 ## Biscuits
 
 ```{r}
-family <- "{{< fa heart size=2xs >}}"
-freezes <- "{{< fa snowflake size=2xs >}}"
-vegan <- "{{< fa leaf size=2xs >}}"
+source("icons.R")
 ```
 
 ## Almond cookies `r freezes` `r vegan`
@@ -12,7 +10,7 @@ vegan <- "{{< fa leaf size=2xs >}}"
 
 ::: {.column width="80%"}
 
-60ml [aquafaba](@sec-aquafaba) \
+60ml [aquafaba](#sec-aquafaba) \
 225g ground almonds \
 160g caster sugar \
 almond extract \
@@ -33,7 +31,7 @@ flaked almonds \
 *Method*
 
 1. Mix sugar and ground almonds.
-1. Whisk [aquafaba](@sec-aquafaba) with fork until light, frothy and foamy, about 2 mins.
+1. Whisk [aquafaba](#sec-aquafaba) with fork until light, frothy and foamy, about 2 mins.
 1. Mix all together.
 1. Roll, then press slightly in flaked almonds, both sides
 1. Bake.
@@ -84,6 +82,8 @@ Filling: \
 
 - "Like a bourbon, but good!";
 - Freezing changes the texture - do not recommend.
+
+![](pictures/R0054-01.jpg)
 
 ## Chocolate chip cookies `r freezes` `r vegan`
 
@@ -485,7 +485,7 @@ half zest and juice of orange \
 - "Like a jaffa cake".
 - Used 108g chocolate to coat bottoms
 
-## Lemon sandwich biscuits
+## Lemon sandwich biscuits `r vegan` {#sec-lemon-biscuits}
 
 :::: {.columns}
 
@@ -494,14 +494,14 @@ half zest and juice of orange \
 150g butter \
 1 lemon zest \
 85g caster sugar \
-1 egg yolk \
+1 egg yolk (optional) \
 280g P flour \
 1tbsp cornflour \
 
 Filling: \
 75g butter \
 130g icing sugar \
-2tbsp lemon curd
+2tbsp [lemon curd](#sec-lemon-curd).
 
 :::
 

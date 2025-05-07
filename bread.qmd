@@ -1,10 +1,8 @@
 ## Bread
 
 ```{r}
-family <- "{{< fa heart size=2xs >}}"
-freezes <- "{{< fa snowflake size=2xs >}}"
-vegan <- "{{< fa leaf size=2xs >}}"
-```
+source("icons.R")
+``` 
 
 ##  Basic Bread `r freezes` `r vegan`
 

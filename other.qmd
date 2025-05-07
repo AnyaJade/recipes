@@ -1,20 +1,52 @@
 ## Other
 
 ```{r}
-source("R/functions.R")
-```
+source("icons.R")
+```  
 
-```{r}
-recipes <- readxl::read_excel("recipes.xlsx")
-```
+##  Hot chocolate `r vegan`
 
-```{r}
-#| output: asis
+:::: {.columns}
 
-get_recipes(recipes, "other") |>
-  cat(sep = '\n')
-```
+::: {.column width="80%"}
 
+250ml milk \
+2.5tsp cocoa \
+1tsp sugar
 
+:::
 
+::: {.column width="20%"}
+
+1 mug
+
+:::
+
+::::
+
+## Mathri `r family` `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+3 P flour \
+1 melted butter \
+water \
+ajwain \
+salt \
+pepper
+
+:::
+
+::: {.column width="20%"}
+
+:::
+
+::::
+
+*Method*
+
+1. 200g butter -> 91 mathri.
+1. Needs salt.
 

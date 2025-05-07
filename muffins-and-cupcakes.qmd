@@ -1,20 +1,64 @@
 ## Muffins and Cupcakes
 
 ```{r}
-source("R/functions.R")
-```
+source("icons.R")
+```  
+  
+## Chocolate muffins `r freezes` `r vegan`
 
-```{r}
-recipes <- readxl::read_excel("recipes.xlsx")
-```
+:::: {.columns}
 
-```{r}
-#| output: asis
+::: {.column width="80%"}
 
-get_recipes(recipes, "muffins and cupcakes") |>
-  cat(sep = '\n')
-```
+200g P flour \
+2tsp BP \
+pinch salt \
+40g cocoa \
+100g brown sugar \
+50ml oil \
+200ml water \
+vanilla \
+100g chocolate chips
 
+:::
 
+::: {.column width="20%"}
 
+180° \
+20mins \
+9 muffins
 
+:::
+
+::::
+
+*Method*
+
+1. Sieve dry twice, then muffin method.
+
+## Raspberry and white chocolate muffins `r family` `r freezes`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+10oz P flour \
+1tbs BP \
+4oz caster sugar \
+1 egg \
+8floz buttermilk \
+4tbs sunflower oil \
+8oz raspberries \
+3oz white chocolate chips
+
+:::
+
+::: {.column width="20%"}
+
+200° \
+20-25mins \
+12 muffins
+
+:::
+
+::::
