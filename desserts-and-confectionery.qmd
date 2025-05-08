@@ -401,7 +401,7 @@ Sauce: \
 1. Melt sauce ingredients and simmer 5m.
 1. Prick, pour over 1/2 sauce. Rest to serve.
 
-## Yule log `r family` `r freezes` `r vegan`
+## Yule log `r family` `r freezes`
 
 :::: {.columns}
 
