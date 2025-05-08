@@ -1,8 +1,0 @@
-
-*`r stringr::str_to_title(part)`*
-
-```{r}
-contents |>
-    bullet_list() 
-```
-
