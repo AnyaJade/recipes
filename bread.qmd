@@ -31,6 +31,71 @@ Loaf
 
 ![](pictures/basic-bread-01.jpg)
 
+## Cinnamon buns `r freezes` `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+475g (1lb 1oz) bread flour \
+25g (1oz) cornflour \
+7g yeast \
+50g (1.75oz) caster sugar \
+1/2tsp cardamom \
+1/2tsp salt \
+300-325ml milk \
+75g (2.5oz) marg \
+
+Caramel sauce: \
+75g (2.5oz) marg \
+3tbsp syrup \
+3tbsp light brown sugar \
+pinch salt
+
+Cinnamon filling: \
+2tbsp light brown sugar \
+2tsp ground cinnamon \
+50g (1.75oz) toasted and chopped pecans \
+200g (7oz) apple puree
+
+:::
+
+::: {.column width="20%"}
+
+160° \
+30mins \
+8" square
+
+:::
+
+::::
+
+*Method*
+
+1. Line tin with greaseproof paper.
+1. Mix flours. Add rest of dry.
+1. Warm milk to lukewarm and add marg.
+1. Mix together, knead about 5mins until silky smooth and elastic.
+1. Prove 1hour or until doubled.
+1. Make caramel sauce: melt marg, syrup, sugar. Add pinch salt and bubble for 10 seconds. Pour into prepared tin.
+1. Mix together cinnamon filling.
+1. Knock back and knead dough for 30seconds. 
+1. Slowly roll dough to large rectangle about 50 x 30 cm (20 x 12").
+1. Spread apple puree. Scatter cinnamon filling.
+1. Starting with long side nearest to you, roll.
+1. Trim ends, cut into 9 slices, place into tin.
+1. Prove 45 mins until well risen and springy to touch,
+1. Bake.
+
+*Notes*
+
+- Could do with more spice.
+- Freezes ok, but caramel sauce not as good.
+- Didn't think cooked enough - longer? hotter?
+- Buns may be too big.
+
+![](pictures/cinnamon-buns-01.jpg)
+
 ## Focaccia `r freezes` `r vegan`
 
 :::: {.columns}
