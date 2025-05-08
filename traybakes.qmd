@@ -224,6 +224,8 @@ rectangle
 1. Boil briskly 3 mins.
 1. Stir in icing sugar, beat and spread quickly.
 
+![](pictures/coffee-fudge-01.jpg)
+
 ## Flapjacks `r family` `r freezes` `r vegan`
 
 :::: {.columns}
@@ -255,6 +257,8 @@ rectangle
 - Made without fruit and nuts, added 1oz more of oats and ginger and came out ok. May need less sugar?
 - Be careful not to overcook, 20mins probably better.
 - Can cut into 36.
+
+![](pictures/flapjacks-01.jpg)
 
 ## Jam crumble bars `r freezes` `r vegan`
 
@@ -408,7 +412,18 @@ few drops peppermint extract
 - Very tasty. 
 - [Aquafaba](#sec-aquafaba) whipping can take 15mins+. 
 - Original recipe uses 3 eggs instead. -
-- Reddit tips: [https://www.reddit.com/r/AskBaking/comments/lzpyg8/swiss_roll_disaster_rubbery_bottom_what_did_do/](https://www.reddit.com/r/AskBaking/comments/lzpyg8/swiss_roll_disaster_rubbery_bottom_what_did_do/).
+- [Reddit tips for swiss roll](https://www.reddit.com/r/AskBaking/comments/lzpyg8/swiss_roll_disaster_rubbery_bottom_what_did_do/).
+
+:::: {.columns}
+::: {.column width="49%"}
+![](pictures/mini-rolls-01.jpg)
+:::
+::: {.column width="2%"}
+:::
+::: {.column width="49%"}
+![](pictures/mini-rolls-02.jpg)
+:::
+::::
 
 ## Raspberry and white chocolate blondies
 
@@ -481,6 +496,8 @@ Filling: \
 *Notes*
 
 - Softer and chewier than caramel shortbread - more like Twix.
+
+![](pictures/twix-01.jpg)
 
 ## White chocolate brownies `r family`
 

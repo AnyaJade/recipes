@@ -78,6 +78,17 @@ squeeze lemon juice
 1. Tip onto floured surface, dredge with flour and fold over 2-3 times.
 1. Pat into about 4cm high, cut, glaze, bake.
 
+:::: {.columns}
+::: {.column width="49%"}
+![](pictures/classic-scones-01.jpg)
+:::
+::: {.column width="2%"}
+:::
+::: {.column width="49%"}
+![](pictures/classic-scones-02.jpg)
+:::
+::::
+
 ## Crepes
 
 :::: {.columns}

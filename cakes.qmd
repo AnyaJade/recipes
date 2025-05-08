@@ -178,6 +178,17 @@ Topping: \
 - Buttercream very smooth and silky. Could do with less buttercream. 
 - Caramel sauce did not work as stated - hard lumps of sugar and had to heat slowly to get mix with cream - next time would not dunk in cold water, but would add warm cream instead.
 
+:::: {.columns}
+::: {.column width="49%"}
+![](pictures/choc-caramel-cake-01.jpg)
+:::
+::: {.column width="2%"}
+:::
+::: {.column width="49%"}
+![](pictures/choc-caramel-cake-02.jpg)
+:::
+::::
+
 ## Chocolate and sweet potato loaf
 
 :::: {.columns}
@@ -290,6 +301,17 @@ Loaf
 
 - Comes out a tall 2x8", think would be better to have 3x8".
 - 150g cream/choc was enough ganache to fill and top 2x8", but not sides.
+
+:::: {.columns}
+::: {.column width="49%"}
+![](pictures/choc-cake-01.jpg)
+:::
+::: {.column width="2%"}
+:::
+::: {.column width="49%"}
+![](pictures/choc-cake-02.jpg)
+:::
+::::
 
 ## Ginger cake `r family`
 

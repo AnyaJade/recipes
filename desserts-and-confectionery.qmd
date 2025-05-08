@@ -429,7 +429,16 @@ berries
 
 ::::
 
-
+:::: {.columns}
+::: {.column width="49%"}
+![](pictures/yule-log-01.jpg)
+:::
+::: {.column width="2%"}
+:::
+::: {.column width="49%"}
+![](pictures/yule-log-02.jpg)
+:::
+::::
 
 
 

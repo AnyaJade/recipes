@@ -30,6 +30,8 @@ source("icons.R")
 
 ::::
 
+![](pictures/mince-pies-01.jpg)
+
 ## Quiche `r family` `r freezes` `r vegan`
 
 :::: {.columns}

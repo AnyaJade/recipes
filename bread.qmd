@@ -29,6 +29,8 @@ Loaf
 
 ::::
 
+![](pictures/basic-bread-01.jpg)
+
 ## Focaccia `r freezes` `r vegan`
 
 :::: {.columns}
@@ -68,6 +70,8 @@ rosemary \
 
 - Half mix fits nicely in 20cm square.
 
+![](pictures/focaccia-01.jpg)
+
 ##  Fruit and nut rolls `r freezes` `r vegan`
 
 :::: {.columns}
@@ -102,6 +106,8 @@ rosemary \
 1. Form dough and knead 5 mins.
 1. Press into 30cm square, scatter fruit and nuts, roll, cut, shape.
 1. Prove 1h 15m then bake.
+
+![](pictures/fruit-nut-rolls-01.jpg)
 
 ## Garlic doughballs `r freezes` `r vegan`
 
@@ -171,6 +177,8 @@ semolina
 1. Prove.
 1. Semolina under dough on baking tray.
 
+![](pictures/pizza-01.jpg)
+
 ## Rolls `r freezes` `r vegan`
 
 :::: {.columns}
@@ -210,6 +218,8 @@ semolina
 *Notes*
 
 - Add steam to oven.
+
+![](pictures/rolls-01.jpg)
 
 ## Yeast-raised no-knead flatbreads `r vegan`
 

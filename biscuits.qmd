@@ -83,7 +83,7 @@ Filling: \
 - "Like a bourbon, but good!";
 - Freezing changes the texture - do not recommend.
 
-![](pictures/R0054-01.jpg)
+![](pictures/bourbons-01.jpg)
 
 ## Chocolate chip cookies `r freezes` `r vegan`
 
@@ -118,6 +118,8 @@ vanilla \
 
 - Chopped chocolate changes texture of cookie, so try to use chips.
 - 15 x 39g balls for bake sale size.
+
+![](pictures/choc-chip-cookies-01.jpg)
 
 ## Chocolate crackle tops `r family`
 
@@ -220,7 +222,7 @@ pinch salt
 
 - Soft.
 
-##  Coconut cookies `r freezes` `r vegan`
+## Coconut cookies `r freezes` `r vegan`
 
 :::: {.columns}
 
@@ -254,6 +256,8 @@ pinch salt
 *Notes*
 
 - Chewy and coconutty.
+
+![](pictures/coconut-cookies-01.jpg)
 
 ##  Coconut oat cookies `r vegan`
 
@@ -329,6 +333,8 @@ pinch salt \
 - Nice with 50-50 hazelnuts;chocolate chips.
 - 15-16 x 40g balls for bake sale size.
 
+![](pictures/double-choc-chip-cookies-vegan-01.jpg)
+
 ## Double chocolate cookies `r freezes`
 
 :::: {.columns}
@@ -366,6 +372,8 @@ pinch salt \
 - Chewy and crisp.
 - Nice with hazelnuts too.
 
+![](pictures/double-choc-chip-cookies-01.jpg)
+
 ##  Gingerbread `r freezes` `r vegan`
 
 :::: {.columns}
@@ -401,6 +409,17 @@ pinch salt \
 *Notes*
 
 - Can bake dough from frozen, add couple more minutes.
+
+:::: {.columns}
+::: {.column width="49%"}
+![](pictures/gingerbread-02.jpg)
+:::
+::: {.column width="2%"}
+:::
+::: {.column width="49%"}
+![](pictures/gingerbread-03.jpg)
+:::
+::::
 
 ##  Hobnobs `r vegan`
 
@@ -441,6 +460,8 @@ pinch salt \
 - Used ~60g chocolate to cover.
 - 2tbsp mix per biscuit.
 - Like crumble mix.
+
+![](pictures/hobknobs-01.jpg)
 
 ## Lebkuchen `r freezes` `r vegan`
 
@@ -485,6 +506,17 @@ half zest and juice of orange \
 - "Like a jaffa cake".
 - Used 108g chocolate to coat bottoms
 
+:::: {.columns}
+::: {.column width="49%"}
+![](pictures/lebkuchen-01.jpg)
+:::
+::: {.column width="2%"}
+:::
+::: {.column width="49%"}
+![](pictures/lebkuchen-02.jpg)
+:::
+::::
+
 ## Lemon sandwich biscuits `r vegan` {#sec-lemon-biscuits}
 
 :::: {.columns}
@@ -527,13 +559,31 @@ Filling: \
 
 - Can top with simple lemon icing.
 
+:::: {.columns}
+::: {.column width="49%"}
+![](pictures/lemon-sandwich-biscuits-01.jpg)
+:::
+::: {.column width="2%"}
+:::
+::: {.column width="49%"}
+![](pictures/lemon-sandwich-biscuits-02.jpg)
+:::
+::::
+
 ##  Nankhatai `r vegan`
 
 :::: {.columns}
 
 ::: {.column width="80%"}
 
-3 green cardamom pods; 40g icing sugar; 100g butter; 70g SR flour; 25g semolina; 25g gram flour; pinch salt; almonds
+3 green cardamom pods \
+40g icing sugar \
+100g butter \
+70g SR flour \
+25g semolina \
+25g gram flour \
+pinch salt \
+almonds
 
 :::
 
@@ -608,6 +658,8 @@ demerara sugar
 
 ::::
 
+![](pictures/shortbread-01.jpg)
+
 ## Triple chocolate cookies
 
 :::: {.columns}
@@ -659,6 +711,8 @@ Filling:\
 30 small whirls \
 18 small fingers
 
+![](pictures/viennese-biscuits-03.jpg)
+
 :::
 
 ::::
@@ -673,3 +727,14 @@ Filling:\
 
 - To make jam use 160g raspberries and 200g jam sugar. 
 - 100g dark chocolate to dip.
+
+:::: {.columns}
+::: {.column width="49%"}
+![](pictures/viennese-biscuits-01.jpg)
+:::
+::: {.column width="2%"}
+:::
+::: {.column width="49%"}
+![](pictures/viennese-biscuits-02.jpg)
+:::
+::::
