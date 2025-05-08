@@ -8,8 +8,8 @@ book:
   chapters:
     - index.qmd
     - tips-and-tricks.qmd
-    - bread.qmd
     - biscuits.qmd
+    - bread.qmd
     - cakes.qmd
     - desserts-and-confectionery.qmd
     - dinners.qmd
@@ -32,6 +32,7 @@ format:
     theme: 
       dark: darkly
       light: cosmo
+    number-sections: false
 
 
 

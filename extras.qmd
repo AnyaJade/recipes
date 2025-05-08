@@ -1,19 +1,66 @@
 ## Extras
 
 ```{r}
-source("R/functions.R")
-```
+source("icons.R")
+```   
+  
+## Buttercream `r vegan` {#sec-buttercream}
 
-```{r}
-recipes <- readxl::read_excel("recipes.xlsx")
-```
+:::: {.columns}
 
-```{r}
-#| output: asis
+::: {.column width="80%"}
 
-get_recipes(recipes, "extras") |>
-  cat(sep = '\n')
-```
+1 butter \
+1-2 icing sugar
+
+:::
+
+::: {.column width="20%"}
+
+:::
+
+::::
+
+*Method*
+
+1. Add icing sugar and little milk to make stiffer or more spreadable.
+
+*Notes*
+
+- Can add vanilla, peppermint, lemon zest ...
+- Can replace small amount of icing sugar with cocoa.
+- For 8" [Victoria cake](#sec-victoria): 60g butter, 120g icing sugar.
+
+##  Lemon curd `r vegan` {#sec-lemon-curd}
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+120ml milk \
+60ml lemon juice \
+1tbsp lemon zest \
+100g granulated sugar \
+1tbsp cornstarch \
+1tbsp butter \
+turmeric
+
+:::
+
+::: {.column width="20%"}
+
+:::
+
+::::
+
+*Method*
+
+1. Whisk over medium heat until thickens, about 5-10 mins.
+
+*Notes*
+
+- Will thicken a bit as it cools.
+- Half of this is enough for [lemon sandwich biscuits](#sec-lemon-biscuits).
 
 
 

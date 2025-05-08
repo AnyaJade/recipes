@@ -1,20 +1,537 @@
 ## Traybakes
 
 ```{r}
-source("R/functions.R")
-```
+source("icons.R")
+```  
+  
+## Bakewell squares `r family`
 
-```{r}
-recipes <- readxl::read_excel("recipes.xlsx")
-```
+:::: {.columns}
 
-```{r}
-#| output: asis
+::: {.column width="80%"}
 
-get_recipes(recipes, "traybakes") |>
-  cat(sep = '\n')
-```
+Base: \
+6oz P flour \
+pinch salt \
+3oz marg \
+2oz caster sugar \
+2tbs water
 
+Filling: \
+Raspberry jam \
+4oz butter \
+4oz caster sugar \
+2 eggs \
+3oz ground almonds \
+almond essence \
+1oz P flour \
+1tsp BP
 
+:::
 
+::: {.column width="20%"}
+
+190° \
+30mins \
+swiss roll
+
+:::
+
+::::
+
+## Brownies `r family`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+5oz marg \
+3oz plain chocolate \
+9oz light brown sugar \
+2 eggs \
+1tsp strong coffee \
+4oz P flour \
+1oz cocoa \
+pinch salt \
+4oz chocolate chips
+
+:::
+
+::: {.column width="20%"}
+
+170° \
+30mins \
+8" square
+
+:::
+
+::::
+
+*Method*
+
+1. [Brownie method](#sec-brownie-method).
+
+*Notes*
+
+- Can use mix of nuts and chocolate chips
+- Tried substituting eggs for 100ml [aquafaba](#sec-aquafaba), but came out a bit greasy.
+
+## Brownies `r freezes` `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+250g dark chocolate \
+100ml oil \
+200ml milk \
+1tsp vanilla \
+175g P flour \
+50g cocoa \
+150g light brown sugar \
+1/2tsp salt \
+1tsp BP \
+200g choc chips
+
+:::
+
+::: {.column width="20%"}
+
+160° \
+20-25mins \
+9" square
+
+:::
+
+::::
+
+*Method*
+
+1. Melt chocolate slowly.
+1. Whisk in wet.
+1. Fold in mixed dry.
+1. Cool in tin, then in fridge for few hours before cutting.
+
+*Notes*
+
+- Very rich and dark, so cut very small (40).
+
+## Cafe granola `r freezes` `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+200g marg \
+200g light brown sugar \
+75g syrup \
+350g oats \
+50g seeds \
+200g fruit/nuts \
+80g P flour
+
+:::
+
+::: {.column width="20%"}
+
+180° \
+20-25mins \
+8" square
+
+:::
+
+::::
+
+*Method*
+
+1. Melt marg, sugar, syrup.
+
+*Notes*
+
+- From when managing B&B.
+- Rowers recommend.
+
+## Chocolate caramel shortbread `r family`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+Base: \
+10oz P flour \
+5oz caster sugar \
+pinch salt \
+10oz butter \
+
+Filling: \
+4oz marg \
+1 tin condensed milk \
+4oz light brown sugar \
+4tbsp syrup
+
+:::
+
+::: {.column width="20%"}
+
+180° \
+25mins \
+11" square
+
+:::
+
+::::
+
+*Method*
+
+1. Bring to boil, then boil gently 7 mins.
+
+## Coffee fudge squares
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+6oz marg \
+6oz caster sugar \
+8oz SR flour \
+1.5tsp BP \
+3 eggs \
+2tbsp milk \
+1tbsp coffee
+
+Topping: \
+2oz butter \
+4oz light brown sugar \
+2tbsp milk \
+up to 10oz icing sugar \
+walnuts
+
+:::
+
+::: {.column width="20%"}
+
+180° \
+30mins \
+rectangle
+
+:::
+
+::::
+
+*Method*
+
+1. Melt butter, sugar, milk gently until dissolves.
+1. Boil briskly 3 mins.
+1. Stir in icing sugar, beat and spread quickly.
+
+![](pictures/coffee-fudge-01.jpg)
+
+## Flapjacks `r family` `r freezes` `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+3oz marg \
+4oz light brown sugar \
+3tbs syrup \
+2oz raisins \
+2oz walnuts \
+6oz oats
+
+:::
+
+::: {.column width="20%"}
+
+180° \
+20-25mins \
+8" square
+
+:::
+
+::::
+
+*Notes*
+
+- Can replace 2oz sugar with 2oz coconut, may need extra squirt of syrup.
+- Made without fruit and nuts, added 1oz more of oats and ginger and came out ok. May need less sugar?
+- Be careful not to overcook, 20mins probably better.
+- Can cut into 36.
+
+![](pictures/flapjacks-01.jpg)
+
+## Jam crumble bars `r freezes` `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+180g oats \
+240g P flour \
+150g light brown sugar \
+1/2tsp B of S \
+1/2tsp cinnamon \
+1/4tsp ginger \
+1/2 tsp salt \
+226g butter \
+10oz jam \
+1/2 cup strawberries
+
+:::
+
+::: {.column width="20%"}
+
+175° \
+35-45mins \
+9" square
+
+:::
+
+::::
+
+## Lemon bars `r family`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+Base: \
+6oz P flour \
+4oz marg \
+2oz caster sugar
+
+Filling: \
+200g caster sugar \
+25g P flour \
+pinch salt \
+3 eggs \
+3 lemon zest \
+200ml lemon juice (3-4 lemons)
+
+:::
+
+::: {.column width="20%"}
+
+180° \
+15-20mins \
+
+160° \
+10-15mins \
+8" square
+
+:::
+
+::::
+
+*Method*
+
+1. Bake shortbread at 180 for 15-20mins.
+1. Whisk filling together while base is cooling, pour over and bake at 160 for 10-15 mins (until top is just set). 
+1. Dust with icing sugar.
+
+## Lemon bars `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+Base: use shortbread base from other recipe.
+
+Filling: \ 
+177ml lemon juice (about 4 large lemons) \
+Optional 2tsp lemon zest \
+300g caster sugar \
+296 coconut milk - mostly the thick part \
+6tbs cornflour \
+pinch turmeric
+
+:::
+
+::: {.column width="20%"}
+
+180° \
+15mins \
+8" square
+
+:::
+
+::::
+
+*Method*
+
+1. Bake base.
+1. Whisk filling ingredients well and heat over medium heat until sugar dissolves and mixture thickens.
+1. Spread over base and bake.
+1. Chill 1-2 hours or overnight until set.
+
+*Notes*
+
+- Nice, very lemony/tart, even without zest.
+
+## Peppermint mini rolls `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+150ml [aquafaba](#sec-aquafaba) \
+100g caster sugar \
+80g P flour \
+2tbsp cocoa \
+1/2tsp BP \
+1/4 tsp vanilla 
+
+Filling: \
+125g butter \
+125g icing sugar \
+1tsp milk \
+few drops peppermint extract
+
+:::
+
+::: {.column width="20%"}
+
+24 x 32 cm
+
+:::
+
+::::
+
+*Method*
+
+1. Whip [aquafaba](#sec-aquafaba) to almost stiff peaks.
+1. Add sugar in spoonful at a time, whilst whipping to stiff.
+1. Add whites to dry ingredients in 2 alternating lots.
+1. Spread in tin and bake 5 mins at 220, then 5-10mins at 180.
+1. Cool 2mins, roll, then leave to cool.
+1. Spread filling, roll and chill 30mins.
+1. Coat in 180g chocolate and chill to set.
+
+*Notes*
+
+- Very tasty. 
+- [Aquafaba](#sec-aquafaba) whipping can take 15mins+. 
+- Original recipe uses 3 eggs instead. -
+- [Reddit tips for swiss roll](https://www.reddit.com/r/AskBaking/comments/lzpyg8/swiss_roll_disaster_rubbery_bottom_what_did_do/).
+
+:::: {.columns}
+::: {.column width="49%"}
+![](pictures/mini-rolls-01.jpg)
+:::
+::: {.column width="2%"}
+:::
+::: {.column width="49%"}
+![](pictures/mini-rolls-02.jpg)
+:::
+::::
+
+## Raspberry and white chocolate blondies
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+140g (5-oz) white chocolate \
+75g (2.6oz) marg \
+100g (3.5oz) caster sugar \
+2 eggs \
+vanilla \
+pinch salt \
+125g (4.5-oz) P flour \
+1box raspberries 
+
+:::
+
+::: {.column width="20%"}
+
+180° \
+17-20mins \
+8" square
+
+:::
+
+::::
+
+*Method*
+
+1. [Brownie method](#sec-brownie-method).
+
+## Twix `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+Base: \
+300g P flour \
+10g caster sugar \
+200g butter \
+1tsp vanilla 
+
+Filling: \
+640g vegan condensed milk \
+270g butter \
+100g light brown sugar
+
+250g chocolate to top
+
+:::
+
+::: {.column width="20%"}
+
+180° \
+30mins \
+8" square
+
+:::
+
+::::
+
+*Method*
+
+1. Bake shortbread until lightly golden then leave to cool.
+1. Place all filling ingredients over low-medium heat until turn amber, stirring all the time - takes 15-20mins to reach firm ball stage.
+1. Pour over base and chill 3-4hrs until set. 
+
+*Notes*
+
+- Softer and chewier than caramel shortbread - more like Twix.
+
+![](pictures/twix-01.jpg)
+
+## White chocolate brownies `r family`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+4oz P flour \
+1/2 tsp BP \
+pinch salt \
+6oz white chocolate \
+4oz caster sugar \
+4oz butter \
+2 eggs \
+1tsp vanilla \
+6oz plain choc chips
+
+Topping: \
+7oz milk chocolate \
+6oz macademia nuts
+
+:::
+
+::: {.column width="20%"}
+
+180° \
+20-25mins \
+9" round
+
+:::
+
+::::
+
+*Method*
+
+1. [Brownie method](#sec-brownie-method).
 

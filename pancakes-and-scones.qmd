@@ -1,20 +1,211 @@
 ## Pancakes and Scones
 
 ```{r}
-source("R/functions.R")
-```
+source("icons.R")
+```  
+  
+## Cheese scones `r freezes`
 
-```{r}
-recipes <- readxl::read_excel("recipes.xlsx")
-```
+:::: {.columns}
 
-```{r}
-#| output: asis
+::: {.column width="80%"}
 
-get_recipes(recipes, "pancakes and scones") |>
-  cat(sep = '\n')
-```
+225g SR flour \
+1tsp mustard powder \
+1/4tsp salt \
+pinch cayenne \
+1tsp BP \
+55g butter \
+100g grated cheese \
+1 egg \
+120ml milk
 
+:::
 
+::: {.column width="20%"}
 
+190° \
+10mins \
+10 x 7.5cm
 
+:::
+
+::::
+
+*Method*
+
+1. Mix dry, then rub in butter to breadcrumbs.
+1. Stir in cheese.
+1. Beat egg in jug and add milk.
+1. Add most wet to dry, but keep a little for glazing.
+1. Roll to 1.5cm thick.
+
+## Classic scones `r freezes` `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+350g SR flour \
+1tsp BP \
+85g butter \
+3tbsp caster sugar \
+optional 85g fruit \
+175ml milk \
+1tsp vanilla \
+squeeze lemon juice
+
+:::
+
+::: {.column width="20%"}
+
+200° \
+10mins \
+6 x 7.8cm or 14 x 5.8cm
+
+:::
+
+::::
+
+*Method*
+
+1. Mix dry.
+1. Rub in butter to breadcrumbs.
+1. Stir in sugar (and fruit).
+1. Warm milk about 30seconds then add vanilla and lemon and set aside for a moment.
+1. Heat baking tray.
+1. Add wet to dry well and combine quickly with knife.
+1. Tip onto floured surface, dredge with flour and fold over 2-3 times.
+1. Pat into about 4cm high, cut, glaze, bake.
+
+:::: {.columns}
+::: {.column width="49%"}
+![](pictures/classic-scones-01.jpg)
+:::
+::: {.column width="2%"}
+:::
+::: {.column width="49%"}
+![](pictures/classic-scones-02.jpg)
+:::
+::::
+
+## Crepes
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+125g P flour \
+1tsp caster sugar \
+pinch salt \
+2 eggs \
+300ml milk \
+20g melted butter
+
+:::
+
+::: {.column width="20%"}
+
+8 medium-large
+
+:::
+
+::::
+
+## Pancakes `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+150g SR flour \
+1/2tsp BP \
+1/2tbsp sugar \
+1/2tbsp vanilla \
+200ml milk \
+oil for cooking
+
+:::
+
+::: {.column width="20%"}
+
+12 x 2 spoons
+
+:::
+
+::::
+
+## Scones `r family` `r freezes` `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+8oz SR flour \
+1tsp BP \
+pinch salt \
+2oz butter \
+2oz caster sugar \
+1/4 pt milk
+
+:::
+
+::: {.column width="20%"}
+
+220° \
+10mins 
+
+:::
+
+::::
+
+## Scotch pancakes `r family`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+8oz SR flour \
+1tsp BP \
+2oz caster sugar \
+pinch salt \
+2 eggs \
+milk -> dropping consistency
+
+:::
+
+::: {.column width="20%"}
+
+:::
+
+::::
+
+## Treacle scones `r freezes` `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+8oz SR flour \
+2oz butter \
+pinch salt \
+1oz sugar \
+1/2 tsp cinammon \
+2tbs treacle \
+milk
+
+:::
+
+::: {.column width="20%"}
+
+220° \
+10-15mins \
+8 x medium
+
+:::
+
+::::
+
+*Method*
+
+1. Rub flour and butter together.

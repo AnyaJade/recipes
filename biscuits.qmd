@@ -1,20 +1,740 @@
 ## Biscuits
 
 ```{r}
-source("R/functions.R")
+source("icons.R")
 ```
 
-```{r}
-recipes <- readxl::read_excel("recipes.xlsx")
-```
+## Almond cookies `r freezes` `r vegan`
 
-```{r}
-#| output: asis
+:::: {.columns}
 
-get_recipes(recipes, "biscuits") |>
-  cat(sep = '\n')
-```
+::: {.column width="80%"}
 
+60ml [aquafaba](#sec-aquafaba) \
+225g ground almonds \
+160g caster sugar \
+almond extract \
+flaked almonds \
 
+:::
 
+::: {.column width="20%"}
 
+180° \
+13-15mins \
+24 cookies
+
+:::
+
+::::
+
+*Method*
+
+1. Mix sugar and ground almonds.
+1. Whisk [aquafaba](#sec-aquafaba) with fork until light, frothy and foamy, about 2 mins.
+1. Mix all together.
+1. Roll, then press slightly in flaked almonds, both sides
+1. Bake.
+
+*Notes*
+
+- Nice, but make them small since sweet and dry.
+
+## Bourbons `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+200g butter \
+100g caster sugar \
+2tbsp cocoa \
+280g P flour \
+
+Filling: \
+75g butter \
+100g icing sugar \
+2tbsp custard powder \
+2tbsp cocoa powder \
+30g melted dark chocolate
+
+:::
+
+::: {.column width="20%"}
+
+160° \
+15-20mins \
+30 small sandwiches
+
+:::
+
+::::
+
+*Method*
+
+1. Cream sugar and butter.
+1. Stir in dry and mix to dough.
+1. Chill 30mins.
+1. Roll to 0.5cm thick, cut, prick, bake. 
+1. For filling, cream sugar and butter first.
+
+*Notes*
+
+- "Like a bourbon, but good!";
+- Freezing changes the texture - do not recommend.
+
+![](pictures/bourbons-01.jpg)
+
+## Chocolate chip cookies `r freezes` `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+125g (4.5 oz) marg \
+100g (3.5oz) light brown sugar \
+2tbsp syrup \
+vanilla \
+160g (5.5oz) SR flour \
+150g chocolate chips
+
+:::
+
+::: {.column width="20%"}
+
+180° \
+12mins \
+21 x 29g balls
+
+:::
+
+::::
+
+*Method*
+
+1. Combine, roll, chill, bake.
+
+*Notes*
+
+- Chopped chocolate changes texture of cookie, so try to use chips.
+- 15 x 39g balls for bake sale size.
+
+![](pictures/choc-chip-cookies-01.jpg)
+
+## Chocolate crackle tops `r family`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+7oz plain chocolate \
+3.5oz butter \
+4oz caster sugar \
+3 eggs \
+vanilla \
+7.5oz P flour \
+1oz cocoa \
+1/2tsp BP \
+pinch salt
+
+:::
+
+::: {.column width="20%"}
+
+160° \
+10-15mins \
+22 cookies
+
+:::
+
+::::
+
+*Method*
+
+1. Melt chocolate and butter.
+1. Mix, chill for 1 hr, roll in icing sugar, bake.
+
+##  Chocolate fork biscuits `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+150g P flour \
+1tsp BP \
+70g caster sugar \
+125g marg \
+1tsp vanilla \
+20g cocoa \
+pinch salt
+
+:::
+
+::: {.column width="20%"}
+
+180° \
+15mins
+
+:::
+
+::::
+
+*Method*
+
+1. Cream sugar, marg, vanilla.
+1. Roll, fork, bake.
+
+## Chocolate orange cookies `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+125g butter \
+125g light brown sugar \
+75g caster sugar \
+50ml milk \
+1 orange zest \
+215g P flour \
+35g cocoa \
+1/2 tsp BP \
+1/4tsp B of S \
+1/4tsp salt \
+250g chocolate chips
+
+:::
+
+::: {.column width="20%"}
+
+180° \
+12-14mins 
+
+:::
+
+::::
+
+*Method*
+
+1. Cream, add wet, then dry, roll and bake.
+1. Leave to cool 10 mins on tray before moving.
+
+*Notes*
+
+- Soft.
+
+## Coconut cookies `r freezes` `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+112g butter \
+200g caster sugar \
+1/2 tsp vanilla \
+156g P flour \
+1/2 tsp B of S \
+1/4tsp salt \
+106g coconut \
+4tbsp milk
+
+:::
+
+::: {.column width="20%"}
+
+180° \
+12mins \
+20 cookies
+
+:::
+
+::::
+
+*Method*
+
+1. As they bake, they spread a lot.; Bake until edges firm and set, middle will still be soft but will firm when cooling.
+
+*Notes*
+
+- Chewy and coconutty.
+
+![](pictures/coconut-cookies-01.jpg)
+
+##  Coconut oat cookies `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+100g brown sugar \
+115g margarine \
+3tbsp syrup \
+1tsp vanilla \
+145g oats \
+125g P flour \
+180g coconut \
+1tsp B of S \
+1/2 tsp cinnamon \
+1tbsp- milk
+
+:::
+
+::: {.column width="20%"}
+
+180° \
+15-18mins \
+22 cookies
+
+:::
+
+::::
+
+*Method*
+
+1. Melt sugar, marg, syrup.
+1. Roll, bake.
+
+## Double chocolate cookies `r freezes` `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+110g margarine \
+100g caster sugar \
+100g light brown sugar \
+1tsp vanilla \
+125g P flour \
+55g cocoa \
+1tsp BP \
+pinch salt \
+1tbsp milk \
+100g chocolate chips
+
+:::
+
+::: {.column width="20%"}
+
+180° \
+10mins \
+20 cookies
+
+:::
+
+::::
+
+*Method*
+
+1. Roll, chill, slightly flatten, bake.
+1. Optional to top with chips.
+
+*Notes*
+
+- Chewy, soft.
+- Nice with 50-50 hazelnuts;chocolate chips.
+- 15-16 x 40g balls for bake sale size.
+
+![](pictures/double-choc-chip-cookies-vegan-01.jpg)
+
+## Double chocolate cookies `r freezes`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+125g butter \
+175g light brown sugar \
+1 egg \
+175g SR flour \
+50g cocoa \
+100g chocolate chips
+
+:::
+
+::: {.column width="20%"}
+
+170° \
+12-15mins \
+25 cookies
+
+:::
+
+::::
+
+*Method*
+
+1. Cream until light and fluffy.
+1. Beat in eggs.
+1. Fold rest.
+1. Roll, chill, bake.
+
+*Notes*
+
+- Chewy and crisp.
+- Nice with hazelnuts too.
+
+![](pictures/double-choc-chip-cookies-01.jpg)
+
+##  Gingerbread `r freezes` `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+125g (4.5oz) marg \
+100g (3.5oz) dark brown sugar \
+4tbsp syrup \
+325g (11.5oz) P flour \
+1tsp B of S \
+2tsp ginger \
+1tsp cinnamon
+
+:::
+
+::: {.column width="20%"}
+
+170° \
+9-10mins \
+17 trees
+
+:::
+
+::::
+
+*Method*
+
+1. Melt marg, sugar, syrup.
+1. Stir to a stiff dough.
+1. Roll, cut, chill, bake.
+
+*Notes*
+
+- Can bake dough from frozen, add couple more minutes.
+
+:::: {.columns}
+::: {.column width="49%"}
+![](pictures/gingerbread-02.jpg)
+:::
+::: {.column width="2%"}
+:::
+::: {.column width="49%"}
+![](pictures/gingerbread-03.jpg)
+:::
+::::
+
+##  Hobnobs `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+75g butter \
+75g caster sugar \
+1/2tbsp syrup \
+75g wholemeal flour \
+150g oats \
+1/2 tsp B of S
+
+:::
+
+::: {.column width="20%"}
+
+180° \
+10mins \
+15 cookies
+
+:::
+
+::::
+
+*Method*
+
+1. Beat butter and sugar.
+1. Mix in syrup.
+1. Add mixed dry to wet a bit at a time -> crumbly mix.
+1. Press mixture into a 6.5cm cookie cutter and compress
+1. Bake and top.
+
+*Notes*
+
+- A bit too sweet, so needs that dark chocolate - could try reducing sugar?
+- Used ~60g chocolate to cover.
+- 2tbsp mix per biscuit.
+- Like crumble mix.
+
+![](pictures/hobknobs-01.jpg)
+
+## Lebkuchen `r freezes` `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+7oz runny honey \
+3oz butter \
+7oz P flour \
+3.5oz ground almonds \
+1tsp BP \
+1/4tsp B of S \
+1.5tsp cinnamon \
+1.5tsp ginger \
+1tsp mixed spice \
+(0.5tsp nutmeg/allspice/..) \
+half zest and juice of orange \
+200g chocolate
+
+:::
+
+::: {.column width="20%"}
+
+180° \
+15mins \
+18 cookies
+
+:::
+
+::::
+
+*Method*
+
+1. Melt honey and butter, then cool 5 mins in fridge.
+1. Add remaining then chill for at least an hour.
+1. Roll with damp hands.
+1. Bake, cool, dip.
+
+*Notes*
+
+- "Like a jaffa cake".
+- Used 108g chocolate to coat bottoms
+
+:::: {.columns}
+::: {.column width="49%"}
+![](pictures/lebkuchen-01.jpg)
+:::
+::: {.column width="2%"}
+:::
+::: {.column width="49%"}
+![](pictures/lebkuchen-02.jpg)
+:::
+::::
+
+## Lemon sandwich biscuits `r vegan` {#sec-lemon-biscuits}
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+150g butter \
+1 lemon zest \
+85g caster sugar \
+1 egg yolk (optional) \
+280g P flour \
+1tbsp cornflour \
+
+Filling: \
+75g butter \
+130g icing sugar \
+2tbsp [lemon curd](#sec-lemon-curd).
+
+:::
+
+::: {.column width="20%"}
+
+180° \
+14-16mins \
+20 sandwiches
+
+:::
+
+::::
+
+*Method*
+
+1. Cream sugar, butter, zest 2-3 mins until pale and creamy.
+1. Beat in egg yolk 1 min.; Mix in flour -> clumps.
+1. Bring to ball, roll to 3-4mm thick, chill at least an hour.
+1. Cut, bake.
+1. Beat buttercream 3-5mins until very pale and creamy before adding lemon curd.
+
+*Notes*
+
+- Can top with simple lemon icing.
+
+:::: {.columns}
+::: {.column width="49%"}
+![](pictures/lemon-sandwich-biscuits-01.jpg)
+:::
+::: {.column width="2%"}
+:::
+::: {.column width="49%"}
+![](pictures/lemon-sandwich-biscuits-02.jpg)
+:::
+::::
+
+##  Nankhatai `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+3 green cardamom pods \
+40g icing sugar \
+100g butter \
+70g SR flour \
+25g semolina \
+25g gram flour \
+pinch salt \
+almonds
+
+:::
+
+::: {.column width="20%"}
+
+140° \
+20mins \
+24 cookies
+
+:::
+
+::::
+
+*Method*
+
+1. Grind cardamom seeds with 1tsp icing sugar.
+1. Beat butter, sugar, cardamom until light and creamy about 10mins.
+1. Marble-sized balls.
+1. Flatten slightly with almond.
+1. Chill 20 mins before baking.
+
+*Notes*
+
+- Delicate flavour and light biscuit.
+
+## Oaty chocolate chip cookies `r family` `r freezes`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+4oz marg \
+4oz light brown sugar \
+1 egg \
+1tsp vanilla \
+5oz SR flour \
+3oz oats \
+8oz choc chips
+
+:::
+
+::: {.column width="20%"}
+
+190° \
+15-20mins \
+19 cookies
+
+:::
+
+::::
+
+## Shortbread `r family` `r freezes` `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+8oz butter \
+8oz (icing sugar + cornflour) \
+8oz plain flour \
+demerara sugar
+
+:::
+
+::: {.column width="20%"}
+
+170° \
+15mins \
+37 5.5cm cookies
+
+:::
+
+::::
+
+![](pictures/shortbread-01.jpg)
+
+## Triple chocolate cookies
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+200g butter \
+300g light brown sugar \
+vanilla \
+2 eggs \
+80g cocoa \
+300g SR flour \
+1tsp BP \
+300g chocolate chips
+
+:::
+
+::: {.column width="20%"}
+
+180° \
+14mins \
+28 cookies
+
+:::
+
+::::
+
+##  Viennese biscuits `r freezes` `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+250g butter \
+50g icing sugar \
+225g P flour \
+25g cornflour 
+
+Filling:\
+100g butter \
+200g icing sugar
+
+:::
+
+::: {.column width="20%"}
+
+170° \
+10-15mins \
+30 small whirls \
+18 small fingers
+
+![](pictures/viennese-biscuits-03.jpg)
+
+:::
+
+::::
+
+*Method*
+
+1. Lots beating to pale and fluffy.
+1. Then sieve flours and beat until well mixed.
+1. Pipe and bake.
+
+*Notes*
+
+- To make jam use 160g raspberries and 200g jam sugar. 
+- 100g dark chocolate to dip.
+
+:::: {.columns}
+::: {.column width="49%"}
+![](pictures/viennese-biscuits-01.jpg)
+:::
+::: {.column width="2%"}
+:::
+::: {.column width="49%"}
+![](pictures/viennese-biscuits-02.jpg)
+:::
+::::
