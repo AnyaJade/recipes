@@ -727,6 +727,7 @@ Filling:\
 
 - To make jam use 160g raspberries and 200g jam sugar. 
 - 100g dark chocolate to dip.
+- Chocolate sticks to trays when cooling and breaks off.
 
 :::: {.columns}
 ::: {.column width="49%"}
