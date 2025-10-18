@@ -10,7 +10,8 @@
 
 ## Useful Measurements
 
-1 tbsp syrup = 21g
+1tbsp syrup = 21g \
+1tbsp cocoa powder = 10g
 
 | Utensil                   | g   | oz   |
 |---------------------------|-----|------|
@@ -36,6 +37,12 @@ Makes thick gloopy batter and nice gooey brownies.
 - Whip on speed 4.
 - 4-5 mins for light and fluffy.
 - 8 mins for stiff peaks?
+
+## Sterilising jars {#sec-jars}
+
+- Wash glass in hot soapy water, rinse well.
+- Bake in oven rim side up on baking tray at 100° for 30mins.
+- Boil metal lids in water for 10mins.
 
 ## Other notes {#sec-other}
 

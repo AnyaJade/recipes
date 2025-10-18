@@ -121,6 +121,48 @@ seasoning
 - But could maybe form/flatten between greaseproof paper?
 - Had a lot of filling left over too. Maybe because difficulties getting big enough for more filling?
 
+## Ragoût pies `r freezes` `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+1 onion \
+2 celery stalks, diced \
+1 large carrot, diced \
+4 garlic cloves \
+(1cup dry red wine) \
+2tbsp P flour \
+1cup stock \
+0.5cup kalamata olives, halved \
+1 can tinned tomatoes \
+2tbsp tomato paste \
+1tbsp fresh thyme \
+1tbsp fresh rosemary, chopped finely \
+2 bay leaves \
+1 can chickpeas \
+salt, pepper \
+puff pastry
+
+:::
+
+::: {.column width="20%"}
+
+6-8 pasties?
+
+:::
+
+::::
+
+*Method*
+
+1. Saute onion, celery and carrot about 10mins until soft. Add garlic.
+1. Add wine and simmer until reduced by half, about 5mins. (I skipped this step).
+1. Stir in flour to coat veg evenly.
+1. Stir in everything except chickpeas. Simmer for about 15mins.
+1. Add chickpeas. Remove from heat. Remove bay leaves.
+1. Make pasties or freeze.
+
 ## Toad-in-hole
 
 :::: {.columns}

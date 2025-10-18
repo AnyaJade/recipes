@@ -262,6 +262,49 @@ Loaf
 
 - 1.25 mix makes large 9" cake.
 
+
+## Chocolate cake `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+150g/5oz butter \
+300ml milk \
+1tbsp [apple cider vinegar](#sec-other) \
+300g/11oz SR flour \
+200g/7oz caster sugar \
+4 tbsp cocoa powder \
+1tsp BofS \
+0.5tsp vanilla \
+
+Buttercream: \
+100g/4oz dark chocolate \
+200g/7oz butter \
+400g/14oz icing sugar \
+5 tbsp cocoa powder \
+pinch salt \
+1 tbsp milk
+
+:::
+
+::: {.column width="20%"}
+
+170° \
+25-30mins \
+2 x 8" round
+
+:::
+
+::::
+
+*Method*
+
+1. Make buttermilk.
+1. Mix all other ingredients, pour over buttermilk and beat well until smooth.
+1. Bake, cool in tins 10mins, then turn out.
+1. For buttercream: melt chocolate and leave to cool 5mins. Beat icing sugar and butter. Sift in dry ingredients. Pour in wet. Mix until smooth.
+
 ## Devil's food cake
 
 :::: {.columns}
@@ -558,7 +601,7 @@ flaked almonds, for topping
 
 8oz mix \
 100g white chocolate \
-175 raspberries 
+175g raspberries 
 
 Filling: \
 200g white chocolate \
@@ -587,6 +630,41 @@ Filling: \
 - Sweet. 
 - Raspberries sunk, but maybe because cooked as one big cake. 
 - Used oat cream for ganache, which was more like pouring cream, but still worked.
+
+## Swiss roll `r freezes`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+3 eggs \
+100g caster sugar \
+100g SR flour
+
+Filling: \
+jam \
+150g buttercream
+
+:::
+
+::: {.column width="20%"}
+
+180° \
+10mins \
+23 x 33cm
+
+:::
+
+::::
+
+*Method*
+
+1. Lightly grease greasproof paper and line tin.
+1. Whisk eggs and sugar, 5-8mins, until thick, pale and leaves ribbons when lift whisk.
+1. Carefully fold in flour. Slowly. Do not over mix.
+1. Bake. 
+1. Turn out onto greaseproof dusted with icing sugar and roll whilst still warm.
+1. Fill once cooled.
 
 ## Victoria cake `r family` `r freezes` {#sec-victoria}
 
