@@ -305,6 +305,8 @@ pinch salt \
 1. Bake, cool in tins 10mins, then turn out.
 1. For buttercream: melt chocolate and leave to cool 5mins. Beat icing sugar and butter. Sift in dry ingredients. Pour in wet. Mix until smooth.
 
+![](pictures/choc-cake2-01.jpg)
+
 ## Devil's food cake
 
 :::: {.columns}
@@ -665,6 +667,8 @@ jam \
 1. Bake. 
 1. Turn out onto greaseproof dusted with icing sugar and roll whilst still warm.
 1. Fill once cooled.
+
+![](pictures/swiss-roll-01.jpg)
 
 ## Victoria cake `r family` `r freezes` {#sec-victoria}
 
