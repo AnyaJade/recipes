@@ -4,7 +4,7 @@
 source("icons.R")
 ```  
 
-## Mince pie pastry `r family` `r freezes` {#sec-mum-mince-pastry}
+## Mum's mince pie pastry `r family` `r freezes` {#sec-mum-mince-pastry}
 
 :::: {.columns}
 
