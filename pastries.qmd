@@ -4,16 +4,7 @@
 source("icons.R")
 ```  
 
-## Pies for dinner `r freezes` `r vegan` {#sec-dinner-pies}
-
-- Fillings:
-  - [Ragoût](#sec-ragout).
-  - [Mushroom, lentil and onion](#sec-mush-lentil).
-- In muffin tray, 98mm cutter for base and 78mm cutter for lid.
-- 1 x 475g pre-rolled puff pastry sheet gives 7-8 pie bases and lids.
-- Bake at 200°, 25-35 mins.
-
-## Mince pie pastry `r family` `r freezes`
+## Mince pie pastry `r family` `r freezes` {#sec-mum-mince-pastry}
 
 :::: {.columns}
 
@@ -39,7 +30,20 @@ source("icons.R")
 
 ::::
 
+*Notes*
+
+- [Mincemeat](#sec-mincemeat).
+
 ![](pictures/mince-pies-01.jpg)
+
+## Pies for dinner `r freezes` `r vegan` {#sec-dinner-pies}
+
+- Fillings:
+  - [Ragoût](#sec-ragout).
+  - [Mushroom, lentil and onion](#sec-mush-lentil).
+- In muffin tray, 98mm cutter for base and 78mm cutter for lid.
+- 1 x 475g pre-rolled puff pastry sheet gives 7-8 pie bases and lids.
+- Bake at 200°, 25-35 mins.
 
 ## Quiche `r family` `r freezes` `r vegan`
 
@@ -69,7 +73,7 @@ source("icons.R")
 1. Bake 10mins with beans.
 1. Bake 10-15 ins without beans and leave to cool.
 
-## Shortcrust pastry `r freezes` `r vegan`
+## Shortcrust pastry `r freezes` `r vegan` {#sec-shortcrust}
 
 :::: {.columns}
 
@@ -97,4 +101,4 @@ pinch salt \
 
 - For a sweet shortcrust replace 0.5oz of flour with icing sugar.
 - Next time for sweet: try a little more icing sugar?
-- Makes 8 x 78mm mince pie bases and star lids.
+- Makes 8 x 78mm [mince pies](#sec-mincemeat) bases and star lids.

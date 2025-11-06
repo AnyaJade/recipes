@@ -62,7 +62,7 @@ turmeric
 - Will thicken a bit as it cools.
 - Half of this is enough for [lemon sandwich biscuits](#sec-lemon-biscuits).
 
-##  Mincemeat `r vegan`
+##  Mincemeat `r vegan` {#sec-mincemeat}
 
 :::: {.columns}
 
@@ -101,6 +101,7 @@ zest and juice of 0.5 lemon \
 - [Sterilise jars](#sec-jars). Stored in fridge for 2 weeks before use, but 
 should be able to store for up to three months.
 - Next time: add more spice and maybe 125ml apple juice?
+- Either [shortcrust pastry](#sec-shortcrust) or [Mum's mince pie pastry](#sec-mum-mince-pastry).
 
 ![](pictures/mincemeat-01.jpg)
 
