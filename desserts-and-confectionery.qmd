@@ -199,7 +199,7 @@ Filling: \
 - Kept in fridge for few days.
 - Nice with raspberries.
 
-## Chocolate truffles `r vegan`
+## Chocolate truffles `r freezes` `r vegan`
 
 :::: {.columns}
 
@@ -221,7 +221,7 @@ dessicated coconut
 
 *Notes*
 
-- Very soft - maybe coat in chocolate, or add nut in centre?
+- Very soft, better when coated in chocolate - used 145g chocolate to coat when made truffles from 1 160ml can coconut cream.
 
 ##  Crumble topping `r family` `r freezes` `r vegan`
 

@@ -3,7 +3,16 @@
 ```{r}
 source("icons.R")
 ```  
-  
+
+## Pies for dinner `r freezes` `r vegan` {#sec-dinner-pies}
+
+- Fillings:
+  - [Ragoût](#sec-ragout).
+  - [Mushroom, lentil and onion](#sec-mush-lentil).
+- In muffin tray, 98mm cutter for base and 78mm cutter for lid.
+- 1 x 475g pre-rolled puff pastry sheet gives 7-8 pie bases and lids.
+- Bake at 200°, 25-35 mins.
+
 ## Mince pie pastry `r family` `r freezes`
 
 :::: {.columns}
@@ -87,3 +96,5 @@ pinch salt \
 *Notes*
 
 - For a sweet shortcrust replace 0.5oz of flour with icing sugar.
+- Next time for sweet: try a little more icing sugar?
+- Makes 8 x 78mm mince pie bases and star lids.

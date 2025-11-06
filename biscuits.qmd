@@ -636,6 +636,45 @@ almonds
 
 ::::
 
+##  Ritz `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+125g P flour \
+1.5tsp BP \
+1tsp sugar \
+1tsp salt \
+4tbsp water \
+28g butter, cold \
+2tbsp vegatable oil
+
+:::
+
+::: {.column width="20%"}
+
+200° \
+10mins \
+36 x 48mm crackers
+
+:::
+
+::::
+
+*Method*
+
+1. Mix dry ingredients.
+1. Add cubed butter and make breadcrumbs.
+1. Add oil and mix until just combined.
+1. Gradually add water, stirring to slightly wet dough where all dry bits are incorporated.
+1. Chill for at least 1hour to allow to firm up for easier rolling.
+1. Roll, cut and bake until golden brown and crisp at edges.
+
+*Notes*
+
+- Too salty. Nest time: half salt and maybe add herbs?
+
 ## Shortbread `r family` `r freezes` `r vegan`
 
 :::: {.columns}

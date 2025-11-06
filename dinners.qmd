@@ -80,6 +80,50 @@ oil for frying
 - 9.5oz chickpeas made enough for 5 people.
 - Can freeze cooked falafel and reheat in oven from frozen, but not as good as fresh.
 
+## Mushroom, lentil and onion pies `r freezes` `r vegan` {#sec-mush-lentil}
+
+*'Lenteel pies'*
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+2 onions, sliced finely \
+200g mushrooms \
+garlic \
+1tbsp fresh rosemary, chopped finely \ 
+1tbsp fresh sage, chopped finely \
+pinch cayenne \
+2tbsp balsamic vinegar \
+1 x 400g can brown lentils, drained \
+1tbsp tomato puree \
+(1 tsp marmite) \
+1tbsp P flour \
+1 cup oat milk \
+salt and pepper
+
+:::
+
+::: {.column width="20%"}
+
+200° \
+30mins
+
+:::
+
+::::
+
+*Method*
+
+1. Fry onions over medium heat until deep golden brown about 15mins.
+1. Push onions to one side, add mushrooms. Once browned, combine with onions.
+1. Add garlic, herbs and spices and cook few minutes until fragrant.
+1. Add vinegar and stir until mostly evaporated.
+1. Add lentils, tomato paste, marmite and combine.
+1. Sprinkle over flour and cook few minutes.
+1. Add milk, combine, cook few minutes until dark, glossy and thick - like gravy.
+1. See [pies for dinner](#sec-dinner-pies).
+
 ## Pupusa
 
 :::: {.columns}
@@ -121,7 +165,7 @@ seasoning
 - But could maybe form/flatten between greaseproof paper?
 - Had a lot of filling left over too. Maybe because difficulties getting big enough for more filling?
 
-## Ragoût pies `r freezes` `r vegan`
+## Ragoût pies `r freezes` `r vegan` {#sec-ragout}
 
 :::: {.columns}
 

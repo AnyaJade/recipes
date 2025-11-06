@@ -50,43 +50,4 @@ pepper
 1. 200g butter -> 91 mathri.
 1. Needs salt.
 
-##  Mincemeat `r vegan`
 
-:::: {.columns}
-
-::: {.column width="80%"}
-
-400g dried fruit (currants, raisins, sultanas, cranberries, 50g mixed peel) \
-1 small apple, finely chopped \
-62g butter, cubed \
-25g blanched almonds, chopped \ 
-122g light brown sugar \
-0.5tsp cinnamon \
-0.5tsp mixed spice \
-zest and juice of 0.5 lemon \
-100ml apple juice (my sub for brandy/rum/sherry)
-
-:::
-
-::: {.column width="20%"}
-
-2 x 370g jars
-
-:::
-
-::::
-
-*Method*
-
-1. Melt all ingredients, except juice/alcohol, allowing butter to melt.
-1. Simmer 10 mins, stirring occasionally.
-1. Cool completely then add juice/alcohol.
-1. Pack into sterilised jars, pressing down to remove air bubbles.
-
-*Notes*
-
-- Used apple juice as a sub for alcohol. Could try earl grey tea?
-- [Sterilise jars](#sec-jars). Stored in fridge for 2 weeks before use, but 
-should be able to store for up to three months.
-
-![](pictures/mincemeat-01.jpg)
