@@ -108,7 +108,8 @@ puff pastry
 ::: {.column width="20%"}
 
 200° \
-30mins
+30mins \
+16
 
 :::
 

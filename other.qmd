@@ -11,8 +11,8 @@ source("icons.R")
 ::: {.column width="80%"}
 
 250ml milk \
-2.5tsp cocoa \
-1tsp sugar
+1tsp cocoa \
+1-2tsp sugar
 
 :::
 
