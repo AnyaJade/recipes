@@ -509,7 +509,7 @@ turmeric
 
 - Paired with buttercream with lemon zest.
 
-## Lemon and Blueberry cake `r vegan`
+## Lemon and blueberry cake `r vegan`
 
 :::: {.columns}
 
