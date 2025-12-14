@@ -237,8 +237,8 @@ rectangle
 ::: {.column width="80%"}
 
 3oz marg \
-4oz light brown sugar \
-3tbs syrup \
+3oz light brown sugar \
+1tbs syrup \
 2oz raisins \
 2oz walnuts \
 6oz oats
@@ -258,8 +258,8 @@ rectangle
 *Notes*
 
 - Can replace 2oz sugar with 2oz coconut, may need extra squirt of syrup.
-- Made without fruit and nuts, added 1oz more of oats and ginger and came out ok. May need less sugar?
-- Be careful not to overcook, 20mins probably better.
+- Made without fruit and nuts and added ginger instead.
+- Be careful not to overcook, 18mins probably better.
 - Can cut into 36.
 
 ![](pictures/flapjacks-01.jpg)
@@ -376,18 +376,24 @@ pinch turmeric
 
 - Nice, very lemony/tart, even without zest.
 
-## Peppermint mini rolls `r vegan`
+## Peppermint mini rolls `r freezes` `r vegan`
 
 :::: {.columns}
 
 ::: {.column width="80%"}
 
 150ml [aquafaba](#sec-aquafaba) \
-100g caster sugar \
-80g P flour \
-2tbsp cocoa \
+1/4tsp cream of tartar \
+90ml milk \
+1tbs [apple cider vinegar](#sec-other) \
+160g P flour \
+190g sugar \
+40g cocoa \
+1/2tsp salt \
 1/2tsp BP \
-1/4 tsp vanilla 
+1/2tsp BofS \
+75ml oil \
+icing sugar for dusting
 
 Filling: \
 125g butter \
@@ -399,6 +405,7 @@ few drops peppermint extract
 
 ::: {.column width="20%"}
 
+180° \
 24 x 32 cm
 
 :::
@@ -407,11 +414,13 @@ few drops peppermint extract
 
 *Method*
 
-1. Whip [aquafaba](#sec-aquafaba) to almost stiff peaks.
-1. Add sugar in spoonful at a time, whilst whipping to stiff.
-1. Add whites to dry ingredients in 2 alternating lots.
-1. Spread in tin and bake 5 mins at 220, then 5-10mins at 180.
-1. Cool 2mins, roll, then leave to cool.
+1. Whip [aquafaba](#sec-aquafaba) and cream of tartar to stiff peaks.
+1. Heat milk in microwave fo 1min to warm, add vinegar, stir and put to the side.
+1. Mix dry ingredients together.
+1. Add oil and milk mixture to dry ingredients and mix until well combined. Will be stiff and dry.
+1. Gently fold in aquafaba spoonful at a time.
+1. Bake until skewer comes out clean, top feels like a sponge.
+1. Turn onto greaseproof dusted with icing sugar, roll, cool.
 1. Spread filling, roll and chill 30mins.
 1. Coat in 180g chocolate and chill to set.
 
@@ -419,8 +428,6 @@ few drops peppermint extract
 
 - Very tasty. 
 - [Aquafaba](#sec-aquafaba) whipping can take 15mins+. 
-- Original recipe uses 3 eggs instead. -
-- [Reddit tips for swiss roll](https://www.reddit.com/r/AskBaking/comments/lzpyg8/swiss_roll_disaster_rubbery_bottom_what_did_do/).
 
 :::: {.columns}
 ::: {.column width="49%"}

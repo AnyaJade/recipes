@@ -509,6 +509,46 @@ turmeric
 
 - Paired with buttercream with lemon zest.
 
+## Lemon and Blueberry cake `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+315g P flour \
+250g sugar \
+3tsp BP \
+1/4tsp salt \
+190ml milk \
+125ml oil \
+80ml juice and zest of 2-3 lemons \
+vanilla \
+190g blueberries
+
+:::
+
+::: {.column width="20%"}
+
+180° \
+50-60mins \
+8" round
+
+:::
+
+::::
+
+*Method*
+
+1. Mix dry ingredients.
+1. Add all wet ingredient and mix until just combined.
+1. Add half blueberries.
+1. Pour batter into tin, gently press remaining blueberries on top, bake.
+1. Cool 10mins in tin, before turning out.
+
+*Notes*
+
+- Underneath felt a little underdone. Maybe try different temperature?
+
 ## Loaves `r family`
 
 :::: {.columns}

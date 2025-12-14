@@ -395,7 +395,8 @@ pinch salt \
 
 170° \
 9-10mins \
-17 trees
+17 trees \
+27 star 2
 
 :::
 
@@ -410,6 +411,7 @@ pinch salt \
 *Notes*
 
 - Can bake dough from frozen, add couple more minutes.
+- Baked and iced biscuits can be frozen, but texture not the same.
 
 :::: {.columns}
 ::: {.column width="49%"}
@@ -636,7 +638,7 @@ almonds
 
 ::::
 
-##  Ritz `r vegan`
+## Ritz `r freezes` `r vegan`
 
 :::: {.columns}
 
@@ -645,7 +647,8 @@ almonds
 125g P flour \
 1.5tsp BP \
 1tsp sugar \
-1tsp salt \
+1/2tsp salt \
+1/2tsp mixed herbs
 4tbsp water \
 28g butter, cold \
 2tbsp vegetable oil
@@ -673,7 +676,7 @@ almonds
 
 *Notes*
 
-- Too salty. Next time: half salt and maybe add herbs?
+- Freeze ok, but nicer fresh.
 
 ## Shortbread `r family` `r freezes` `r vegan`
 

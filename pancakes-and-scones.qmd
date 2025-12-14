@@ -180,6 +180,36 @@ milk -> dropping consistency
 
 ::::
 
+## Tattie scones `r freezes` `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+250g potato \
+1/2tsp salt \
+25g butter \
+75g P flour
+
+:::
+
+::: {.column width="20%"}
+
+12
+
+:::
+
+::::
+
+*Method*
+
+1. Mash potato and butter.
+1. Add flour to form a dough.
+1. Roll to 3mm thick and cut.
+1. Bake on heavy based flat pan until golden brown on both sides.
+
+![](pictures/tattie-scones-01.jpg)
+
 ## Treacle scones `r freezes` `r vegan`
 
 :::: {.columns}
