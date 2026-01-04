@@ -212,6 +212,13 @@ Topping: \
 1. Prove 30mins.
 1. Bake then brush some of the butter and leave cool for 5 mins.
 
+## Paratha `r family` `r freezes` `r vegan`
+
+*Notes*
+
+- 1.5kg atta makes enough for 12-13
+- Can use ajwain leaf, but methi nicer
+
 ## Pizza dough `r freezes` `r vegan`
 
 :::: {.columns}

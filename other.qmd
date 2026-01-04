@@ -50,4 +50,25 @@ pepper
 1. 200g butter -> 91 mathri.
 1. Needs salt.
 
+## Mukhwas `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+4tsp soonf \
+3tsp sesame/linseed \
+2tsp split dhania \
+16 cardamom pods
+
+:::
+
+::: {.column width="20%"}
+
+3 weeks worth
+
+:::
+
+::::
+
 
