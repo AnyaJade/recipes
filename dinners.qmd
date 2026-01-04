@@ -42,10 +42,10 @@ fresh coriander
 16oz dried chickpeas \
 1/2tsp BofS \
 1 small onion \
-1/4 cup parsley \
+1/4cup parsley \
 3-5 cloves garlic \
-3/2 tbs gram flour \
-1.75 tsp salt \
+1.5tbs gram flour \
+1.75tsp salt \
 2tsp cumin \
 1tsp ground coriander \
 1/4tsp black pepper \
@@ -80,6 +80,48 @@ oil for frying
 - 9.5oz chickpeas made enough for 5 people.
 - Can freeze cooked falafel and reheat in oven from frozen, but not as good as fresh.
 
+##  Gunpowder potatoes `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+500g baby new potatoes \
+1.5tsp cumin seeds \
+1.5tsp coriander seeds \
+1.5tsp fennel seeds \
+1tbsp vegetable oil, for basting \
+25g butter, melted \
+6 spring onions, finely chopped \
+Coriander leaves, finely chopped \
+3 green chillies, very finely chopped \
+1.5tsp flaky sea salt \
+30ml lime juice \
+1tsp garam masala \
+
+:::
+
+::: {.column width="20%"}
+
+Serves 4-5. \
+
+:::
+
+::::
+
+*Method*
+
+1. Par boil potatoes.
+1. Toast seeds and crush.
+1. Drain potatoes and allow to steam-dry for couple of minutes.
+1. Brush potatoes with oil, and grill high for 5-7 minutes each side until golden.
+1. Cut potatoes in half with spoon to get rough edges.
+1. Mix everything together.
+
+*Notes*
+
+- Usually use lemon instead of lime due to availability.
+
 ## Mushroom, lentil and onion pies `r freezes` `r vegan` {#sec-mush-lentil}
 
 *'Lenteel pies'*
@@ -97,7 +139,7 @@ pinch cayenne \
 2tbsp balsamic vinegar \
 1 x 400g can brown lentils, drained \
 1tbsp tomato puree \
-(1 tsp marmite) \
+(1tsp marmite) \
 1tbsp P flour \
 1 cup oat milk \
 salt and pepper \
