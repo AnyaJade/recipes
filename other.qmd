@@ -45,10 +45,10 @@ pepper
 
 ::::
 
-*Method*
+*Notes*
 
-1. 200g butter -> 91 mathri.
-1. Needs salt.
+- 200g butter -> 91 mathri.
+- Needs salt.
 
 ## Mukhwas `r vegan`
 
