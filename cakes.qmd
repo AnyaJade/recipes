@@ -226,6 +226,65 @@ Loaf
 
 1. Mash potato and chocolate together first.
 
+## Chocolate and coffee woodland stump cake `r vegan` {#sec-woodland-stump}
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+236ml (1cup) milk \
+15ml [apple cider vinegar](#sec-other) \
+236ml (1cup) strong coffee, cooled \
+110g oil \
+350g P flour \
+300g light brown sugar \
+70g cocoa \
+2.5tsp BP \
+1.5tsp BofS \
+0.25tsp salt \
+[Chocolate cremeux](#sec-chocolate-cremeux) \
+[Coffee Swiss meringue buttercream](#sec-coffee-swiss-buttercream) \
+300g dark chocolate for the bark \
+
+:::
+
+::: {.column width="20%"}
+
+180° \
+30-40mins \
+3 x 6" round
+
+:::
+
+::::
+
+*Method*
+
+1. Make vegan buttermilk and set aside 10mins.
+1. Mix wet. Mix dry. Fold together.
+1. Bake. Cool in tins 15-20mins before turning out.
+1. Chill for a few hours (or overnight) - easier to work with.
+1. Make chocolate bark by tempering chocolate, spreading it thinly over greaseproof paper. Then roll after 5mins and chill at least 30mins. Then carefully unroll.
+1. Assemble and serve.
+
+*Notes*
+
+- Large cake - serves 14-16.
+- Recipe originally for 3-tiered 6", but used 7" tins and came out fine.
+- Think only used 150g for the bark.
+
+:::: {.columns}
+::: {.column width="49%"}
+![](pictures/woodland-stump-01.jpg)
+:::
+::: {.column width="2%"}
+:::
+::: {.column width="49%"}
+![](pictures/woodland-stump-02.jpg)
+:::
+::::
+
+
 ## Chocolate cake `r vegan`
 
 :::: {.columns}
@@ -261,7 +320,6 @@ Loaf
 *Notes*
 
 - 1.25 mix makes large 9" cake.
-
 
 ## Chocolate cake `r vegan`
 

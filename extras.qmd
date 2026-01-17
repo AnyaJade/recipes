@@ -31,6 +31,73 @@ source("icons.R")
 - Can replace small amount of icing sugar with cocoa.
 - For 8" [Victoria cake](#sec-victoria): 60g butter, 120g icing sugar.
 
+##  Chocolate cremeux `r vegan` {#sec-chocolate-cremeux}
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+200ml milk \
+40g caster \
+30g cornflour \
+0.5 vanilla pod or 1tsp vanilla extract \
+200g chilled full-fat coconut milk or coconut cream \
+pinch salt \
+160g dark chocolate \
+
+:::
+
+::: {.column width="20%"}
+
+:::
+
+::::
+
+*Method*
+
+1. Whisk milk, sugar and cornflour over low heat until sugar is dissolved.
+1. Add vanilla, coconut and salt, heat on medium-high. Simmer whilst whisking continuously for 5 mins until thickened.
+1. Pour custard over chocolate and fold until melted. Whisk for a couple minutes until smooth and lump-free.
+1. Chill.
+
+*Notes*
+
+- Make in advance - 6hours to chill, but overnight best.
+- Enough for 2 layers of filling in a 3-tiered 7" round cake - like [chocolate and coffee woodland stump cake](#sec-woodland-stump).
+
+##  Coffee Swiss meringue buttercream `r freezes` `r vegan` {#sec-coffee-swiss-buttercream}
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+9tbs (133g) [aquafaba](#sec-aquafaba) \
+220g light brown sugar \
+250g butter \
+1.5tbs coffee granules in 1tbs boiling water
+
+:::
+
+::: {.column width="20%"}
+
+:::
+
+::::
+
+*Method*
+
+1. Make coffee and set aside. 
+1. Heat aquafaba and sugar in bowl over hot water. Bring temperature to medium and allow mixture to heat for few minutes until sugar is dissolved.
+1. Whisk on high speed 15-20mins until completely cooled, stiff and glossy - should stay in upside down bowl.
+1. Slowly add chunks of butter, one at a time, with 5 seconds between to allow it to incorporate.
+1. Once all butter added, whisk on low 5-10mins until fluffy and lightened in colour. Don't worry if looks split, just beat more.
+1. Add cooled coffee, beat a couple minutes until combined.
+
+*Notes*
+
+- Used to cover sides and top of 3-tiered 7" round cake - like [chocolate and coffee woodland stump cake](#sec-woodland-stump). But had lots leftover - think 2/3 would be enough.
+- Should freeze (testing). Think defrost and mix before using.
+
 ##  Lemon curd `r vegan` {#sec-lemon-curd}
 
 :::: {.columns}
