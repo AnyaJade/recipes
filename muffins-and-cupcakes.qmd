@@ -4,6 +4,42 @@
 source("icons.R")
 ```  
   
+## Blueberry muffins `r freezes` `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+296ml milk \
+1tsp [apple cider vinegar](#sec-other) \
+250g P flour \
+200g sugar \
+2tsp BP \
+1/4tsp salt \
+1tbs cornflour \
+79g melted butter \
+1tsp vanilla \
+222g blueberries
+
+:::
+
+::: {.column width="20%"}
+
+200° \
+20-25mins \
+12 muffins
+
+:::
+
+::::
+
+*Method*
+
+1. Make buttermilk.
+1. [Muffin method](#sec-muffin-method).
+
+![](pictures/blueberry-muffins-01.jpg)
+
 ## Chocolate muffins `r freezes` `r vegan`
 
 :::: {.columns}
@@ -34,7 +70,7 @@ vanilla \
 
 *Method*
 
-1. Sieve dry twice, then muffin method.
+1. [Muffin method](#sec-muffin-method).
 
 ![](pictures/choc-muffins-01.jpg)
 
@@ -64,3 +100,5 @@ vanilla \
 :::
 
 ::::
+
+1. [Muffin method](#sec-muffin-method).

@@ -4,6 +4,17 @@
 source("icons.R")
 ```  
 
+## Hair rinse
+
+3-4 sprigs rosemary \
+1tsp cloves \
+500ml water
+
+*Method*
+
+1. Boil, simmer 20mins.
+1. Leave at least 30 mins to cool then strain and use/store.
+
 ##  Hot chocolate `r vegan`
 
 :::: {.columns}
@@ -65,7 +76,8 @@ pepper
 4tsp soonf \
 3tsp sesame/linseed \
 2tsp split dhania \
-16 cardamom pods
+16 cardamom pods \
+3tsp coconut
 
 :::
 

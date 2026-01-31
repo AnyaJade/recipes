@@ -122,6 +122,52 @@ Serves 4-5. \
 
 - Usually use lemon instead of lime due to availability.
 
+##  Harissa, chickpea and lentil stew `r freezes` `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+2 onions \
+0.5 leek \
+2 carrots \
+1 red pepper \
+1 green pepper \
+garlic cloves \
+4tsp ground cumin \
+4tsp paprika (can mix sweet and smoked) \
+2tsp black pepper \
+salt \
+8tsp harissa paste \
+2tbsp tomato puree \
+1 lemon zest \
+400g tinned tomatoes \
+240g red lentils \
+240g chickpeas \
+700ml stock \
+coriander \
+parsley \
+2tbsp lemon juice
+
+:::
+
+::: {.column width="20%"}
+
+Serves 7-8. \
+
+:::
+
+::::
+
+*Method*
+
+1. All veg finely diced.
+1. Fry onions first. Add rest veg. Then garlic.
+1. Add spices.
+1. Add harissa paste, tomato puree and zest.
+1. Add tomatoes, lentils, chickpeas and stock. Bring to boil. Simmer 20mins or until cooked.
+1. Add herbs and lemon juice before serving.
+
 ## Mushroom, lentil and onion pies `r freezes` `r vegan` {#sec-mush-lentil}
 
 *'Lenteel pies'*
@@ -166,7 +212,7 @@ puff pastry
 1. Add lentils, tomato paste, marmite and combine.
 1. Sprinkle over flour and cook few minutes.
 1. Add milk, combine, cook few minutes until dark, glossy and thick - like gravy.
-1. See [pies for dinner](#sec-dinner-pies).
+1. See [pies for dinner](#sec-dinner-pies) or make into 12 sausage rolls using 1 large sheet puff pastry.
 
 ## Pupusa
 
