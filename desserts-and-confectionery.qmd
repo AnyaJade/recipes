@@ -205,9 +205,8 @@ Filling: \
 
 ::: {.column width="80%"}
 
-300g dark chocolate \
-240ml coconut cream \
-dessicated coconut
+200g dark chocolate \
+260ml coconut cream
 
 :::
 
@@ -221,7 +220,8 @@ dessicated coconut
 
 *Notes*
 
-- Very soft, better when coated in chocolate - used 145g chocolate to coat when made truffles from 1 x 160ml can coconut cream.
+- Very soft, better when coated in chocolate - used 145g chocolate to coat.
+- Easier to roll if freeze tray pre-roll and for 5mins when starts to get messy.
 
 ##  Crumble topping `r family` `r freezes` `r vegan`
 
