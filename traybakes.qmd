@@ -376,6 +376,44 @@ pinch turmeric
 
 - Nice, very lemony/tart, even without zest.
 
+## Malteser cake
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+225g crushed digestives \
+200g milk chocolate \
+125g Maltesers \
+160g butter \
+3tbsp golden syrup \
+1tbsp cocoa
+
+Topping:
+200g chocolate \
+crushed Maltesers
+
+:::
+
+::: {.column width="20%"}
+
+8" square
+
+:::
+
+::::
+
+*Method*
+
+1. Melt butter, cocoa, syrup and chocolate slowly. Cool 5 mins.
+1. Add biscuits and stir until combined.
+1. Add Maltesers and pour into lined tin.
+1. Add topping.
+1. Chill at least 2 hours until set.
+
+
+![](pictures/malteser-cake-01.jpg)
+
 ## Peppermint mini rolls `r freezes` `r vegan`
 
 :::: {.columns}
