@@ -264,6 +264,58 @@ rectangle
 
 ![](pictures/flapjacks-01.jpg)
 
+## Frangipane slice `r freezes` `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+Frangipane: \
+75g ground almonds \
+65g sugar \
+25g melted butter \
+2.5tbsp milk \
+almond extract \
+
+Dough: \
+115g melted butter \
+150g light brown sugar \
+2tbsp milk \
+vanilla \
+almond extract \
+155g P flour \
+125g ground almonds \
+0.25tsp BP
+
+Flaked almonds to top
+
+:::
+
+::: {.column width="20%"}
+
+180° \
+30-35mins \
+8" square
+
+:::
+
+::::
+
+*Method*
+
+1. Make frangipane layer by mixing all ingredients. Then set aside in fridge until needed.
+1. Mix melted butter, sugar, milk and extracts until well combined.
+1. Add dry and combine to cookie dough like texture.
+1. Press half into tin. Top with frangipane. Top with rest dough (press into small discs in hand then put on top). Top with flaked almonds.
+1. Bake until slightly golden brown and edges look set.
+1. Cool in tin for at least 1hour.
+
+*Notes*
+
+- Best on day of bake.
+
+![](pictures/frangipane-slice-01.jpg)
+
 ## Jam crumble bars `r freezes` `r vegan`
 
 :::: {.columns}
@@ -410,7 +462,6 @@ crushed Maltesers
 1. Add Maltesers and pour into lined tin.
 1. Add topping.
 1. Chill at least 2 hours until set.
-
 
 ![](pictures/malteser-cake-01.jpg)
 
