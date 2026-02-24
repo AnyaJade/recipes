@@ -16,3 +16,4 @@ _book
 *.json
 notes.R
 _extensions/quarto-ext/
+**/*.quarto_ipynb
