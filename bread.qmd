@@ -212,7 +212,7 @@ Topping: \
 1. Prove 30mins.
 1. Bake then brush some of the butter and leave cool for 5 mins.
 
-## Hot Cross Buns `r freezes` `r vegan`
+## Hot cross buns `r freezes` `r vegan`
 
 :::: {.columns}
 
