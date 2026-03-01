@@ -184,7 +184,7 @@ milk -> dropping consistency
 
 ::::
 
-## Tattie scones `r freezes` `r vegan`
+## Tattie scones `r freezes` `r vegan` {#sec-tattie-scone}
 
 :::: {.columns}
 

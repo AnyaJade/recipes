@@ -294,6 +294,43 @@ Topping: \
 
 - Serves 3.
 
+## Macaroons `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+75g cold mashed potato \
+250g icing sugar \
+vanilla \
+150g dark choc \
+100g coconut
+
+:::
+
+::: {.column width="20%"}
+
+28
+
+:::
+
+::::
+
+*Method*
+
+1. Add icing sugar spoonful at a time to mash. Will be wet and gloopy at first, but keep going until forms a smooth dough.
+1. Chill for half an hour, roll, then chill again.
+1. Optional - toast coconut.
+1. Melt chocolate. 
+1. Coat and chill until set.
+
+*Notes*
+
+- Testing freezability.
+- Came out big once coated, so maybe try rolling into 35?
+- I added more icing sugar to get fondant firm - not sure if because mash not cold enough.
+- I had extra chocolate and not enough coconut, but have amended the above quantities - still may need tweaking.
+
 ## Rolos 
 
 *'Blockos'*

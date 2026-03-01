@@ -212,12 +212,64 @@ Topping: \
 1. Prove 30mins.
 1. Bake then brush some of the butter and leave cool for 5 mins.
 
+## Hot Cross Buns `r freezes` `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+65g butter \
+50g sugar \
+250ml lukewarm milk \
+7g yeast \
+400g strong white bread flour \
+0.5tsp salt \
+2tsp spices \
+150g dried fruit
+
+Topping: \
+1.5tsp maple syrup
+
+:::
+
+::: {.column width="20%"}
+
+180° \
+20mins \
+12
+
+:::
+
+::::
+
+*Method*
+
+1. Melt butter slowly. Take off heat then add sugar and milk. Sprinkle over yeast, stir, set aside couple mins.
+1. Mix dry, then well method to form soft ball.
+1. Knead 5 mins to smooth, pliable dough.
+1. Knead fruit a little at a time into dough until evenly distributed.
+1. Prove 1.5hours or until doubled and spongy to touch.
+1. Knock back, knead lightly and shape into 12 balls before pulling a little from sides to underneath.
+1. Place on tray with 1.5cm gap between and prove 45-60mins until well risen. Buns should be just touching each other.
+1. Bake until risen and golden brown. Brush with syrup whilst warm.
+
+*Notes*
+
+- I added a bit more flour to get soft ball.
+- Could do with more fruit.
+- Also, took a bit longer than suggested to prove.
+- I accidentally made 11, because I went for ~90g a bun in shaping. So should go for ~83g instead to get 12.
+- Didn't bother with crosses but after second prove and before bake can mix 25g strong white bread flour with 2tbs cold water to make smooth paste, then pipe over top.
+
+![](pictures/hot-cross-buns-01.jpg)
+
 ## Paratha `r family` `r freezes` `r vegan`
 
 *Notes*
 
 - 1.5kg atta makes enough for 12-13
 - Can use ajwain leaf, but methi nicer
+- 1 batch [tattie scone mash](#sec-tattie-scone) and 400g atta made 7 aloo paratha
 
 ## Pizza dough `r freezes` `r vegan`
 
