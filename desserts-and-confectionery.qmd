@@ -294,7 +294,7 @@ Topping: \
 
 - Serves 3.
 
-## Macaroons `r vegan`
+## Macaroons `r freezes` `r vegan`
 
 :::: {.columns}
 

@@ -38,6 +38,10 @@ source("icons.R")
 1. Make buttermilk.
 1. [Muffin method](#sec-muffin-method).
 
+*Notes*
+
+- Freezes ok, but much better fresh.
+
 ![](pictures/blueberry-muffins-01.jpg)
 
 ## Chocolate muffins `r freezes` `r vegan`
