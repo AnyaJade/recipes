@@ -260,7 +260,8 @@ Topping: \
 - Didn't bother with crosses but after second prove and before bake can mix 25g strong white bread flour with 2tbs cold water to make smooth paste, then pipe over top.
 
 ![](pictures/hot-cross-buns-01.jpg)
-## No-knead bread `r freezes` `r vegan`
+
+## No-knead Dutch oven bread `r freezes` `r vegan`
 
 :::: {.columns}
 
