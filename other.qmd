@@ -4,6 +4,35 @@
 source("icons.R")
 ```  
 
+## Bircher muesli `r vegan`
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
+2 apples, grated \
+100g oats \
+3tbs seeds \
+70g dried fruit \
+250ml milk
+
+:::
+
+::: {.column width="20%"}
+
+:::
+
+::::
+
+*Method*
+
+1. Mix well and leave in fridge overnight.
+
+*Notes*
+
+- 3 portions and keeps 3 days.
+- Fills plastic rectangle with clips.
+
 ## Hair rinse
 
 3-4 sprigs rosemary \
